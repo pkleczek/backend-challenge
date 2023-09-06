@@ -19,3 +19,7 @@ Coding challenge: Create a small web service that takes location and a search qu
 
 # Delivery
 Fork this repository and make your solution publicly available. 
+
+
+### Notice
+"All rights reserved, 2023 Loyalty Partner GmbH. Transfer to third parties and any reproduction is not permitted."
