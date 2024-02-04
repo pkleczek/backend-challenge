@@ -10,6 +10,5 @@ Following assumptions were made while working on this challenge:
 
 # Further notes
 
-* The implementation could have additional tests for webclient using Wiremock
 * A circuit breaker could be used if the data api is unreliable.
 * Also the application could read ETag and cache the API response. 
