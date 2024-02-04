@@ -10,7 +10,7 @@ import static pl.kleczek.challenge.poi.CoordinatesFixtures.*;
 
 class PointOfInterestFacadeTest {
     InMemoryPointOfInterestRepository pointOfInterestRepository = new InMemoryPointOfInterestRepository();
-    PointOfInterestFacade facade = new PoiConfiguration().pointOfInterestFacade(pointOfInterestRepository);
+    PointOfInterestFacade facade = new PointOfInterestFacade(pointOfInterestRepository);
 
     @Test
     void itShouldReturnMatchingPointsByNameAndDistance() {
