@@ -1,0 +1,5835 @@
+{
+    "places": [
+        {
+            "id": 19963,
+            "lat": 48.133886,
+            "lon": 11.545253,
+            "name": "PAYBACK Tech (4th Floor), Theresienhöhe 12, 80339 München",
+            "partnerId": "337",
+            "placeId": "11",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 19966,
+            "lat": 48.133899,
+            "lon": 11.545228,
+            "name": "Esszimmer, Theresienhöhe 12, 80339 München",
+            "partnerId": "337",
+            "placeId": "14",
+            "wifiCheckinEnabled": true,
+            "wifis": [
+                {
+                    "bssid": "08:cc:68:5f:4b:d1",
+                    "id": 101500
+                }
+            ]
+        },
+        {
+            "id": 19971,
+            "lat": 48.133657,
+            "lon": 11.546208,
+            "name": "LPS 2nd Floor",
+            "partnerId": "337",
+            "placeId": "201",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 21802,
+            "lat": 48.13973,
+            "lon": 11.56246,
+            "name": "Telekom Shop, Schützenstr. 9, 80335 München",
+            "partnerId": "424",
+            "placeId": "2385001",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 21806,
+            "lat": 48.13749,
+            "lon": 11.57436,
+            "name": "Telekom Shop, Kaufingerstr. 6, 80331 München",
+            "partnerId": "424",
+            "placeId": "2385023",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 21808,
+            "lat": 48.13878,
+            "lon": 11.56867,
+            "name": "Telekom Shop, Neuhauser Str. 10, 80331 München",
+            "partnerId": "424",
+            "placeId": "2385025",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 21810,
+            "lat": 48.13498,
+            "lon": 11.56922,
+            "name": "Telekom Shop, Sendlinger Str. 40, 80331 München",
+            "partnerId": "424",
+            "placeId": "2385033",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 21817,
+            "lat": 48.15249,
+            "lon": 11.53393,
+            "name": "Telekom Shop, Rotkreuzplatz 1, 80634 München",
+            "partnerId": "424",
+            "placeId": "2386005",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 21818,
+            "lat": 48.11527,
+            "lon": 11.58002,
+            "name": "Telekom Shop, Tegernseer Platz 7, 81541 München",
+            "partnerId": "424",
+            "placeId": "2386027",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 21820,
+            "lat": 48.16085,
+            "lon": 11.58656,
+            "name": "Telekom Shop, Leopoldstr. 80, 80802 München",
+            "partnerId": "424",
+            "placeId": "2392030",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 21821,
+            "lat": 48.18355,
+            "lon": 11.5355,
+            "name": "Telekom Shop, Riesstr. 59, 80993 München",
+            "partnerId": "424",
+            "placeId": "2392040",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 21924,
+            "lat": 48.13438,
+            "lon": 11.57982,
+            "name": "Telekom Shop, Frauenstr. 32, 80469 München",
+            "partnerId": "424",
+            "placeId": "9949126",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 21927,
+            "lat": 48.13459,
+            "lon": 11.59711,
+            "name": "Telekom Shop, Innere Wiener Str. 57, 81667 München",
+            "partnerId": "424",
+            "placeId": "9949289",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 29112,
+            "lat": 48.187459,
+            "lon": 11.567745,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00001788",
+            "street": "Frankfurter Ring 5",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80807"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 29376,
+            "lat": 48.137102,
+            "lon": 11.56447,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00002489",
+            "street": "Sonnenstraße 12",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80331"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 29505,
+            "lat": 48.152886,
+            "lon": 11.533241,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00001566",
+            "street": "Rotkreuzplatz 1",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80634"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 29543,
+            "lat": 48.135996,
+            "lon": 11.5717,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00002182",
+            "street": "Sendlinger Straße 12a",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80331"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 29545,
+            "lat": 48.116203,
+            "lon": 11.580348,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00001917",
+            "street": "Tegernseer Landstr. 64",
+            "wifiCheckinEnabled": true,
+            "zipCode": "81541"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 29552,
+            "lat": 48.138344,
+            "lon": 11.536712,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00001973",
+            "street": "Westendstraße 98",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80339"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 29561,
+            "lat": 48.141354,
+            "lon": 11.560581,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00002193",
+            "street": "Arnulfstraße 2",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80335"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 29590,
+            "lat": 48.111093,
+            "lon": 11.595484,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00001297",
+            "street": "Giesinger Bahnhofplatz 7",
+            "wifiCheckinEnabled": true,
+            "zipCode": "81539"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 29648,
+            "lat": 48.143252,
+            "lon": 11.549005,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00001347",
+            "street": "Hackerbrücke 4",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80335"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 29656,
+            "lat": 48.151316,
+            "lon": 11.55781,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00001972",
+            "street": "Dachauer Straße 92",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80335"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 29671,
+            "lat": 48.128657,
+            "lon": 11.570911,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00002528",
+            "street": "Klenzestraße 52a",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80469"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 29684,
+            "lat": 48.162092,
+            "lon": 11.58668,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00001652",
+            "street": "Münchner Freiheit 7",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80802"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 29804,
+            "lat": 48.13972,
+            "lon": 11.565138,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00000909",
+            "street": "Karlsplatz 25",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80335"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 29921,
+            "lat": 48.13082,
+            "lon": 11.590274,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00000510",
+            "street": "Rosenheimer Straße 30-32",
+            "wifiCheckinEnabled": true,
+            "zipCode": "81669"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 29971,
+            "lat": 48.118458,
+            "lon": 11.540629,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00000320",
+            "street": "Plinganserstraße 33",
+            "wifiCheckinEnabled": true,
+            "zipCode": "81369"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 30000,
+            "lat": 48.157712,
+            "lon": 11.58441,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00002410",
+            "street": "Leopoldstraße 23",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80802"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 30017,
+            "lat": 48.116641,
+            "lon": 11.532165,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00001840",
+            "street": "Albert-Roßhaupter-Straße 37",
+            "wifiCheckinEnabled": true,
+            "zipCode": "81369"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 30138,
+            "lat": 48.145631,
+            "lon": 11.519909,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00001980",
+            "street": "Friedenheimer Brücke 23",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80639"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 30157,
+            "lat": 48.179357,
+            "lon": 11.506112,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00002123",
+            "street": "Bunzlauer Platz 7",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80992"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 30254,
+            "lat": 48.182914,
+            "lon": 11.594642,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00000939",
+            "street": "Alfred-Arndt-Straße 1",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80807"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 30326,
+            "lat": 48.150024,
+            "lon": 11.563321,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00000325",
+            "street": "Augustenstraße 67",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80333"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 30437,
+            "lat": 48.160146,
+            "lon": 11.579505,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00000389",
+            "street": "Hohenzollernstraße 48",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80801"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 30440,
+            "lat": 48.128653,
+            "lon": 11.556992,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00000237",
+            "street": "Lindwurmstraße 95",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80337"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 30467,
+            "lat": 48.166747,
+            "lon": 11.576154,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00000832",
+            "street": "Karl-Theodor-Straße 65",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80803"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 30571,
+            "lat": 48.182293,
+            "lon": 11.531005,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00002110",
+            "street": "Pelkovenstraße 143-147",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80992"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 30595,
+            "lat": 48.134106,
+            "lon": 11.596638,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00000613",
+            "street": "Innere Wiener Straße 50",
+            "wifiCheckinEnabled": true,
+            "zipCode": "81667"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 30755,
+            "lat": 48.136787,
+            "lon": 11.503287,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00001830",
+            "street": "Fürstenrieder Straße 51",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80686"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 30780,
+            "lat": 48.184479,
+            "lon": 11.532314,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00002124",
+            "street": "Hanauer Straße 68",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80993"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 30782,
+            "lat": 48.150153,
+            "lon": 11.544352,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00002162",
+            "street": "Nymphenburger Straße 81",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80636"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 31436,
+            "lat": 48.187634,
+            "lon": 11.530851,
+            "name": "Aral",
+            "partnerId": "181",
+            "placeId": "19146400",
+            "street": "Triebstraße 11e",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80993"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "features": [
+                "PAY@PUMP"
+            ],
+            "id": 32153,
+            "lat": 48.178783,
+            "lon": 11.5670559,
+            "name": "Aral",
+            "partnerId": "181",
+            "placeId": "19044000",
+            "street": "Schleißheimer Straße 257",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80809"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "features": [
+                "PAY@PUMP"
+            ],
+            "id": 32158,
+            "lat": 48.1212269,
+            "lon": 11.5190626,
+            "name": "Aral",
+            "partnerId": "181",
+            "placeId": "19052800",
+            "street": "Garmischer Straße 197",
+            "wifiCheckinEnabled": true,
+            "zipCode": "81377"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "features": [
+                "PAY@PUMP"
+            ],
+            "id": 32160,
+            "lat": 48.1122726,
+            "lon": 11.5391458,
+            "name": "Aral",
+            "partnerId": "181",
+            "placeId": "19057100",
+            "street": "Plinganser Str. 70",
+            "wifiCheckinEnabled": true,
+            "zipCode": "81369"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "features": [
+                "PAY@PUMP"
+            ],
+            "id": 32173,
+            "lat": 48.1773185,
+            "lon": 11.5894239,
+            "name": "Aral",
+            "partnerId": "181",
+            "placeId": "19076800",
+            "street": "Schenkendorfstraße 15",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80807"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "features": [
+                "PAY@PUMP"
+            ],
+            "id": 32178,
+            "lat": 48.1075307,
+            "lon": 11.5794598,
+            "name": "Aral",
+            "partnerId": "181",
+            "placeId": "19091300",
+            "street": "Tegernseer Landstraße 174",
+            "wifiCheckinEnabled": true,
+            "zipCode": "81539"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "features": [
+                "PAY@PUMP"
+            ],
+            "id": 32981,
+            "lat": 48.1269747,
+            "lon": 11.5222115,
+            "name": "Aral",
+            "partnerId": "181",
+            "placeId": "28643900",
+            "street": "Garmischer Straße 138",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80686"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "features": [
+                "PAY@PUMP"
+            ],
+            "id": 33063,
+            "lat": 48.157505,
+            "lon": 11.528449,
+            "name": "Aral",
+            "partnerId": "181",
+            "placeId": "28518100",
+            "street": "Nymphenburger Straße 205",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80639"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "features": [
+                "PAY@PUMP"
+            ],
+            "id": 33070,
+            "lat": 48.161041,
+            "lon": 11.559322,
+            "name": "Aral",
+            "partnerId": "181",
+            "placeId": "28520600",
+            "street": "Schwere-Reiter-Straße 26b",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80797"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "features": [
+                "PAY@PUMP"
+            ],
+            "id": 33333,
+            "lat": 48.1238368,
+            "lon": 11.5648519,
+            "name": "Aral",
+            "partnerId": "181",
+            "placeId": "28518500",
+            "street": "Kapuzinerstraße 46",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80469"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "features": [
+                "PAY@PUMP"
+            ],
+            "id": 33375,
+            "lat": 48.1635424,
+            "lon": 11.5372857,
+            "name": "Aral",
+            "partnerId": "181",
+            "placeId": "19071200",
+            "street": "Landshuter Allee 163",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80637"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "features": [
+                "PAY@PUMP"
+            ],
+            "id": 33377,
+            "lat": 48.1760818,
+            "lon": 11.5358367,
+            "name": "Aral",
+            "partnerId": "181",
+            "placeId": "19115700",
+            "street": "Georg-Brauchle-Ring 27",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80992"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 33524,
+            "lat": 48.1946145,
+            "lon": 11.5972523,
+            "name": "real",
+            "partnerId": "21",
+            "placeId": "08394",
+            "street": "Margot-Kalinke-Straße 4",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80939"
+        },
+        {
+            "id": 38861,
+            "lat": 48.182331,
+            "lon": 11.533903,
+            "name": "Galeria Kaufhof, Pelkovenstr. 155, 80992 München",
+            "partnerId": "24",
+            "placeId": "00100073",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 38946,
+            "lat": 48.15198,
+            "lon": 11.53188,
+            "name": "Galeria Kaufhof, Pötschnerstr. 5, 80634 München",
+            "partnerId": "24",
+            "placeId": "00100222",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 38947,
+            "lat": 48.13863,
+            "lon": 11.56497,
+            "name": "Galeria Kaufhof, Karlsplatz 21 - 24, 80335 München",
+            "partnerId": "24",
+            "placeId": "00100013",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 43262,
+            "lat": 48.1389095,
+            "lon": 11.5680474,
+            "name": "Vodafone, Neuhauser Str. 16, 80331 München",
+            "partnerId": "5057",
+            "placeId": "200528860",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 43379,
+            "lat": 48.1526366,
+            "lon": 11.5337793,
+            "name": "Vodafone, Nymphenburger Str. 160, 80634 München",
+            "partnerId": "5057",
+            "placeId": "200577051",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 43385,
+            "lat": 48.1337775,
+            "lon": 11.5820847,
+            "name": "Vodafone, Rumfordstr. 57, 80469 München",
+            "partnerId": "5057",
+            "placeId": "200531292",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 43393,
+            "lat": 48.1179927,
+            "lon": 11.5406891,
+            "name": "Vodafone, Plinganserstr. 37, 81369 München",
+            "partnerId": "5057",
+            "placeId": "200527975",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 43435,
+            "lat": 48.1346489,
+            "lon": 11.5686608,
+            "name": "Vodafone, Sendlinger Str. 50, 80331 München",
+            "partnerId": "5057",
+            "placeId": "200531296",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 43442,
+            "lat": 48.115519,
+            "lon": 11.5796763,
+            "name": "Vodafone, Tegernseer Platz 3, 81541 München",
+            "partnerId": "5057",
+            "placeId": "200527977",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 43595,
+            "lat": 48.1366515,
+            "lon": 11.5644647,
+            "name": "Vodafone, Sonnenstr. 16, 80331 München",
+            "partnerId": "5057",
+            "placeId": "200527993",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 44026,
+            "lat": 48.1119561,
+            "lon": 11.5033769,
+            "name": "Vodafone, Waldfriedhofstr. 115, 81377 München",
+            "partnerId": "5057",
+            "placeId": "200527976",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 44039,
+            "lat": 48.129456,
+            "lon": 11.5929243,
+            "name": "Vodafone, Rosenheimer Str. 52, 81669 München",
+            "partnerId": "5057",
+            "placeId": "200527981",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 44050,
+            "lat": 48.1392586,
+            "lon": 11.5664594,
+            "name": "Vodafone, Karlsplatz 8 Stachus Passagen, 80335 München",
+            "partnerId": "5057",
+            "placeId": "200527996",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 44128,
+            "lat": 48.1359166,
+            "lon": 11.5799899,
+            "name": "Vodafone, Tal 21, 80331 München",
+            "partnerId": "5057",
+            "placeId": "200577157",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 44213,
+            "lat": 48.1391165,
+            "lon": 11.5034565,
+            "name": "Vodafone, Fürstenrieder Str. 31, 80686 München",
+            "partnerId": "5057",
+            "placeId": "200529081",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 44364,
+            "lat": 48.1836549,
+            "lon": 11.5321287,
+            "name": "Vodafone, Hanauer Str. 68, 80993 München",
+            "partnerId": "5057",
+            "placeId": "203344575",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 44422,
+            "lat": 48.1281238,
+            "lon": 11.5551788,
+            "name": "Vodafone, Lindwurmstr. 36, 80337 München",
+            "partnerId": "5057",
+            "placeId": "200527997",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 44480,
+            "lat": 48.1599228,
+            "lon": 11.5859113,
+            "name": "Vodafone, Leopoldstr. 68, 80802 München",
+            "partnerId": "5057",
+            "placeId": "200528002",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 44512,
+            "lat": 48.1822198,
+            "lon": 11.5304168,
+            "name": "Vodafone, Pelkovenstr. 143, 80992 München",
+            "partnerId": "5057",
+            "placeId": "203329985",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 44537,
+            "lat": 48.1576768,
+            "lon": 11.5848468,
+            "name": "Vodafone, Leopoldstr. 48, 80802 München",
+            "partnerId": "5057",
+            "placeId": "200535073",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 44582,
+            "lat": 48.1599509,
+            "lon": 11.5753919,
+            "name": "Vodafone, Kurfürstenplatz 4, 80796 München",
+            "partnerId": "5057",
+            "placeId": "200528001",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 44610,
+            "lat": 48.1369887,
+            "lon": 11.5751263,
+            "name": "Vodafone, Marienplatz 25, 80331 München",
+            "partnerId": "5057",
+            "placeId": "200591650",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 44643,
+            "lat": 48.1573933,
+            "lon": 11.5112846,
+            "name": "Vodafone, Notburgastr. 4, 80639 München",
+            "partnerId": "5057",
+            "placeId": "200528000",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 45327,
+            "lat": 48.1605,
+            "lon": 11.5855,
+            "name": "Sparkasse, Leopoldstr. 51, 80802 München",
+            "partnerId": "5058",
+            "placeId": "40722",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 45328,
+            "lat": 48.1242,
+            "lon": 11.5811,
+            "name": "Sparkasse, Ohlmüllerstr. 32, 81541 München",
+            "partnerId": "5058",
+            "placeId": "40724",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 45329,
+            "lat": 48.139,
+            "lon": 11.5543,
+            "name": "Sparkasse, Bayerstr. 69, 80335 München",
+            "partnerId": "5058",
+            "placeId": "40725",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 45330,
+            "lat": 48.147,
+            "lon": 11.5603,
+            "name": "Sparkasse, Brienner Str. 55, 80333 München",
+            "partnerId": "5058",
+            "placeId": "40728",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 45331,
+            "lat": 48.1155,
+            "lon": 11.5818,
+            "name": "Sparkasse, Werinherstr. 3, 81541 München",
+            "partnerId": "5058",
+            "placeId": "40729",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 45332,
+            "lat": 48.1309,
+            "lon": 11.5704,
+            "name": "Sparkasse, Müllerstr. 27-29, 80469 München",
+            "partnerId": "5058",
+            "placeId": "40732",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 45336,
+            "lat": 48.15,
+            "lon": 11.548,
+            "name": "Sparkasse, Lothstr. 1, 80335 München",
+            "partnerId": "5058",
+            "placeId": "40750",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 45337,
+            "lat": 48.1956,
+            "lon": 11.5837,
+            "name": "Sparkasse, Ingolstädter Str. 101, 80939 München",
+            "partnerId": "5058",
+            "placeId": "40761",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 45339,
+            "lat": 48.1173,
+            "lon": 11.5264,
+            "name": "Sparkasse, Partnachplatz 7, 81373 München",
+            "partnerId": "5058",
+            "placeId": "40776",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 45340,
+            "lat": 48.1359,
+            "lon": 11.5026,
+            "name": "Sparkasse, Fürstenrieder Str. 62, 80686 München",
+            "partnerId": "5058",
+            "placeId": "40806",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 45591,
+            "lat": 48.1366,
+            "lon": 11.5779,
+            "name": "Sparkasse, Sparkassenstr. 2, 80331 München",
+            "partnerId": "5058",
+            "placeId": "129118",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 45720,
+            "lat": 48.12931,
+            "lon": 11.589009,
+            "name": "Novotel München City, Hochstraße 11, 81669 München",
+            "partnerId": "5001",
+            "placeId": "J69L0X",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 45723,
+            "lat": 48.129836,
+            "lon": 11.592704,
+            "name": "Hilton Munich City, Rosenheimer Str. 15, 81667 München",
+            "partnerId": "5001",
+            "placeId": "J6HI4Y",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 45787,
+            "lat": 48.137442,
+            "lon": 11.575188,
+            "name": "Munich Marienplatz station, Marienplatz, 80331 München",
+            "partnerId": "5003",
+            "placeId": "J5FYNI",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 45790,
+            "lat": 48.138664,
+            "lon": 11.565366,
+            "name": "Munich Karlsplatz station, Karlspl., 80335 München",
+            "partnerId": "5003",
+            "placeId": "J4UWSI",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 45797,
+            "lat": 48.128833,
+            "lon": 11.593972,
+            "name": "Munich Rosenheimer Platz station, Bahnhof, 81669 München",
+            "partnerId": "5003",
+            "placeId": "J6K7YW",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 45803,
+            "lat": 48.133606,
+            "lon": 11.583125,
+            "name": "Munich Isartor station, Bahnhof, 80331 München",
+            "partnerId": "5003",
+            "placeId": "J5WZ1O",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 45816,
+            "lat": 48.144594,
+            "lon": 11.502607,
+            "name": "Munich Laim station, Bahnhof, 80639 München",
+            "partnerId": "5003",
+            "placeId": "J14EBL",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 45826,
+            "lat": 48.141931,
+            "lon": 11.549084,
+            "name": "Munich Hackerbrücke station, Bahnhof, 80335 München",
+            "partnerId": "5003",
+            "placeId": "J3W0HN",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 45840,
+            "lat": 48.14131,
+            "lon": 11.559063,
+            "name": "München Hauptbahnhof, Arnulfstraße 15, 80335 München",
+            "partnerId": "5003",
+            "placeId": "J4HEGX",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 46245,
+            "lat": 48.1411,
+            "lon": 11.5226,
+            "name": "JET, LANDSBERGER STR. 184, 80687 MUENCHEN",
+            "partnerId": "5063",
+            "placeId": "J2B8YR",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 46562,
+            "lat": 48.1315,
+            "lon": 11.5027,
+            "name": "JET, FUERSTENRIEDER STR. 98, 80686 MUENCHEN",
+            "partnerId": "5063",
+            "placeId": "J14LEB",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 46625,
+            "lat": 48.1785,
+            "lon": 11.5171,
+            "name": "JET, DACHAUER STR. 240, 80992 MUENCHEN",
+            "partnerId": "5063",
+            "placeId": "J1ZGVD",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 46641,
+            "lat": 48.1176,
+            "lon": 11.5028,
+            "name": "JET, FUERSTENRIEDER STR. 207, 81377 MUENCHEN",
+            "partnerId": "5063",
+            "placeId": "J14T08",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 46653,
+            "lat": 48.1528,
+            "lon": 11.5073,
+            "name": "JET, WOTANSTR. 85, 80639 MUENCHEN",
+            "partnerId": "5063",
+            "placeId": "J1EGI0",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 47927,
+            "lat": 48.13,
+            "lon": 11.5892,
+            "name": "ESSO, HOCHSTR. 5, 81669 MUENCHEN",
+            "partnerId": "5061",
+            "placeId": "J69ZRO",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 48170,
+            "lat": 48.1342,
+            "lon": 11.5235,
+            "name": "ESSO, WESTENDSTR. 183, 80686 MUENCHEN",
+            "partnerId": "5061",
+            "placeId": "J2D6CU",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 48369,
+            "lat": 48.1661,
+            "lon": 11.5908,
+            "name": "ESSO, UNGERERSTR. 54, 80802 MUENCHEN",
+            "partnerId": "5061",
+            "placeId": "J6DFI5",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 48436,
+            "lat": 48.1523,
+            "lon": 11.5142,
+            "name": "ESSO, ARNULFSTR. 279, 80639 MUENCHEN",
+            "partnerId": "5061",
+            "placeId": "J1T8WJ",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 48517,
+            "lat": 48.1718,
+            "lon": 11.5071,
+            "name": "ESSO, ALLACHER STR. 20, 80992 MUENCHEN",
+            "partnerId": "5061",
+            "placeId": "J1E17Q",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 48612,
+            "lat": 48.115,
+            "lon": 11.5332,
+            "name": "ESSO, PASSAUERSTR. 20, 81369 MUENCHEN",
+            "partnerId": "5061",
+            "placeId": "J2XYNY",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 48884,
+            "lat": 48.1865,
+            "lon": 11.556,
+            "name": "TOTAL, MOOSACHER STR., 80809 MUENCHEN",
+            "partnerId": "5060",
+            "placeId": "J4AUH5",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 49036,
+            "lat": 48.1827,
+            "lon": 11.5539,
+            "name": "TOTAL, LERCHENAUER STR., 80809 MUENCHEN",
+            "partnerId": "5060",
+            "placeId": "J46CER",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 49047,
+            "lat": 48.1782,
+            "lon": 11.5721,
+            "name": "TOTAL, PETUELRING, 80807 MUENCHEN",
+            "partnerId": "5060",
+            "placeId": "J59CP2",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 49136,
+            "lat": 48.1923,
+            "lon": 11.5643,
+            "name": "TOTAL, DETMOLDSTR., 80935 MUENCHEN",
+            "partnerId": "5060",
+            "placeId": "J4SMYB",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 49187,
+            "lat": 48.1575,
+            "lon": 11.5439,
+            "name": "TOTAL, LEONRODSTR., 80636 MUENCHEN",
+            "partnerId": "5060",
+            "placeId": "J3KWLZ",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 50549,
+            "lat": 48.1199,
+            "lon": 11.503,
+            "name": "ALLGUTH, Fürstenrieder Straße, 81377 München",
+            "partnerId": "5050",
+            "placeId": "J8HICF",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 50943,
+            "lat": 48.1845,
+            "lon": 11.5054,
+            "name": "Agip, Dachauer Strasse, 80993 Muenchen",
+            "partnerId": "5050",
+            "placeId": "IXO2S5",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 51168,
+            "lat": 48.1016,
+            "lon": 11.5671,
+            "name": "HEM, Grünwalder Str., 81547 München",
+            "partnerId": "5050",
+            "placeId": "J0T0I0",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 51307,
+            "lat": 48.1236,
+            "lon": 11.5955,
+            "name": "OMV, Auerfeldstr., 81541 München",
+            "partnerId": "5050",
+            "placeId": "IKM10K",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 51631,
+            "lat": 48.1871,
+            "lon": 11.5349,
+            "name": "ALLGUTH, Triebstraße, 80993 München",
+            "partnerId": "5050",
+            "placeId": "IMQCF3",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 52080,
+            "lat": 48.1032,
+            "lon": 11.5335,
+            "name": "Bavaria Petrol, Zielstattstraße, 81379 München",
+            "partnerId": "5050",
+            "placeId": "J5Q1YW",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 52361,
+            "lat": 48.1765,
+            "lon": 11.5353,
+            "name": "ALLGUTH, Georg-Brauchle-Ring, 80992 München",
+            "partnerId": "5050",
+            "placeId": "J6056T",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 52515,
+            "lat": 48.1957,
+            "lon": 11.5973,
+            "name": "Supermarkt-Tankstelle, HELENE-WESSEL-BOGEN 26, 80939 MUENCHEN",
+            "partnerId": "5050",
+            "placeId": "JAHBT1",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 52952,
+            "lat": 48.193,
+            "lon": 11.5836,
+            "name": "Bavaria Petrol, Ingolstädter Straße, 80939 München",
+            "partnerId": "5050",
+            "placeId": "IXBNBE",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 53879,
+            "lat": 48.1224,
+            "lon": 11.5486,
+            "name": "Agip, Impler Str., 81371 Muenchen",
+            "partnerId": "5050",
+            "placeId": "J8DV6W",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 53913,
+            "lat": 48.1211,
+            "lon": 11.5022,
+            "name": "ALLGUTH, Fürstenrieder Straße, 81377 München",
+            "partnerId": "5050",
+            "placeId": "IFOK3V",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 54146,
+            "lat": 48.1222,
+            "lon": 11.5979,
+            "name": "V-Markt München Balanstrasse, Balanstr., 81541 München",
+            "partnerId": "5050",
+            "placeId": "IS2SXI",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 54183,
+            "lat": 48.1872,
+            "lon": 11.5353,
+            "name": "OMV, Triebstr., 80993 München",
+            "partnerId": "5050",
+            "placeId": "IK66IO",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 54397,
+            "lat": 48.1366,
+            "lon": 11.5662,
+            "name": "Agip, Josephspitalstrasse, 80331 Muenchen",
+            "partnerId": "5050",
+            "placeId": "JA0LHY",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 54626,
+            "lat": 48.1104,
+            "lon": 11.5679,
+            "name": "freie Tankstelle, Schönstraße, 81543 München",
+            "partnerId": "5050",
+            "placeId": "IT7YBK",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 54741,
+            "lat": 48.1143,
+            "lon": 11.5763,
+            "name": "Bavaria Petrol, Zehentbauernstraße, 81539 München",
+            "partnerId": "5050",
+            "placeId": "J9S8EF",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 54776,
+            "lat": 48.1792,
+            "lon": 11.5087,
+            "name": "Freie, Baubergerstrasse, 80992 Muenchen",
+            "partnerId": "5050",
+            "placeId": "IP55CW",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 55820,
+            "lat": 48.1908,
+            "lon": 11.5867,
+            "name": "Supermarkt-Tankstelle, MARIA-PROBST-STRASSE 6, 80939 MUENCHEN",
+            "partnerId": "5050",
+            "placeId": "IZPDPW",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 55922,
+            "lat": 48.166,
+            "lon": 11.59,
+            "name": "OMV, Ungererstr., 80802 München",
+            "partnerId": "5050",
+            "placeId": "J9HYFG",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60551,
+            "lat": 48.1416018,
+            "lon": 11.5600883,
+            "name": "EDEKA, Arnulfstraße 2, 80335 München",
+            "partnerId": "5064",
+            "placeId": "J4JLL2",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60565,
+            "lat": 48.139129,
+            "lon": 11.510359,
+            "name": "EDEKA, Agnes-Bernauer-Straße 51, 80687 München",
+            "partnerId": "5064",
+            "placeId": "J1L0FF",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60592,
+            "lat": 48.11933,
+            "lon": 11.53361,
+            "name": "EDEKA, Ötztaler Straße 4, 81373 München",
+            "partnerId": "5064",
+            "placeId": "J2YUC1",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60610,
+            "lat": 48.1160592,
+            "lon": 11.5801449,
+            "name": "EDEKA, Tegernseer Landstraße 64, 81541 München",
+            "partnerId": "5064",
+            "placeId": "J5QKYQ",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60612,
+            "lat": 48.1643684,
+            "lon": 11.5569593,
+            "name": "EDEKA, Georg-Birk-Straße 13, 80797 München",
+            "partnerId": "5064",
+            "placeId": "J4CWBP",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60614,
+            "lat": 48.1521268,
+            "lon": 11.5769465,
+            "name": "EDEKA, Türkenstraße 77, 80799 München",
+            "partnerId": "5064",
+            "placeId": "J5JQGB",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60618,
+            "lat": 48.1823007,
+            "lon": 11.5306241,
+            "name": "EDEKA, Pelkovenstraße 143 - 147, 80992 München",
+            "partnerId": "5064",
+            "placeId": "J2SGFD",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60621,
+            "lat": 48.1511045,
+            "lon": 11.5736446,
+            "name": "EDEKA, Schellingstraße 52, 80799 München",
+            "partnerId": "5064",
+            "placeId": "J5CNO3",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60629,
+            "lat": 48.1031322,
+            "lon": 11.5324736,
+            "name": "EDEKA, Zielstattstraße 10, 81379 München",
+            "partnerId": "5064",
+            "placeId": "J2WEIV",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60643,
+            "lat": 48.12217,
+            "lon": 11.55018,
+            "name": "EDEKA, Implerstraße 17, 81371 München",
+            "partnerId": "5064",
+            "placeId": "J3YCWL",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60644,
+            "lat": 48.1536001,
+            "lon": 11.5335993,
+            "name": "EDEKA, Nymphenburgerstraße 166, 80634 München",
+            "partnerId": "5064",
+            "placeId": "J2YTRU",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60645,
+            "lat": 48.1173979,
+            "lon": 11.5404682,
+            "name": "EDEKA, Plinganserstraße 45, 81369 München",
+            "partnerId": "5064",
+            "placeId": "J3DJI1",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60654,
+            "lat": 48.1554734,
+            "lon": 11.5635112,
+            "name": "EDEKA, Görresstraße 29, 80798 München",
+            "partnerId": "5064",
+            "placeId": "J4QXSY",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60675,
+            "lat": 48.12856610000001,
+            "lon": 11.5987572,
+            "name": "EDEKA, Weißenburger Straße 25, 81667 München",
+            "partnerId": "5064",
+            "placeId": "J6UH71",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60721,
+            "lat": 48.1097234,
+            "lon": 11.5029541,
+            "name": "EDEKA, Fürstenrieder Straße 273, 81377 München",
+            "partnerId": "5064",
+            "placeId": "J154U3",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60722,
+            "lat": 48.152219,
+            "lon": 11.5760771,
+            "name": "EDEKA, Nordendstraße 2, 80801 München",
+            "partnerId": "5064",
+            "placeId": "J5HVDC",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60724,
+            "lat": 48.1725613,
+            "lon": 11.5945138,
+            "name": "EDEKA, Theodor-Dombart-Straße 4, 80805 München",
+            "partnerId": "5064",
+            "placeId": "J6LE41",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60725,
+            "lat": 48.1817047,
+            "lon": 11.553048,
+            "name": "EDEKA, Helene-Mayer-Ring 12/15, 80809 München",
+            "partnerId": "5064",
+            "placeId": "J44INT",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60727,
+            "lat": 48.1862176,
+            "lon": 11.5722439,
+            "name": "EDEKA, Knorrstraße 83c, 80807 München",
+            "partnerId": "5064",
+            "placeId": "J59NV0",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60728,
+            "lat": 48.17067549999999,
+            "lon": 11.5634135,
+            "name": "EDEKA, Lerchenauer Straße 3, 80809 München",
+            "partnerId": "5064",
+            "placeId": "J4QQDS",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60732,
+            "lat": 48.1527588,
+            "lon": 11.5679186,
+            "name": "EDEKA, Schellingstraße 88, 80798 München",
+            "partnerId": "5064",
+            "placeId": "J50DUZ",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60734,
+            "lat": 48.1489298,
+            "lon": 11.575291,
+            "name": "EDEKA, Türkenstraße 44, 80799 München",
+            "partnerId": "5064",
+            "placeId": "J5G6OT",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 60736,
+            "lat": 48.1597946,
+            "lon": 11.5850955,
+            "name": "EDEKA, Leopoldstraße 41, 80802 München",
+            "partnerId": "5064",
+            "placeId": "J617AJ",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 63875,
+            "lat": 48.1833287,
+            "lon": 11.5316432,
+            "name": "EDEKA, Hanauer Straße 68, 80993 München",
+            "partnerId": "5064",
+            "placeId": "J2UN2H",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 63893,
+            "lat": 48.1542304,
+            "lon": 11.5334868,
+            "name": "EDEKA, Nymphenburger Straße 172, 80634 München",
+            "partnerId": "5064",
+            "placeId": "J2YL3I",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 63896,
+            "lat": 48.1759517,
+            "lon": 11.5816944,
+            "name": "EDEKA, Isoldenstraße 39, 80804 München",
+            "partnerId": "5064",
+            "placeId": "J5TWZJ",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 63910,
+            "lat": 48.136661,
+            "lon": 11.5034128,
+            "name": "EDEKA, Fürstenrieder Straße 51, 80686 München",
+            "partnerId": "5064",
+            "placeId": "J164FQ",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 63912,
+            "lat": 48.15064,
+            "lon": 11.50409,
+            "name": "EDEKA, Wotanstraße 40, 80639 München",
+            "partnerId": "5064",
+            "placeId": "J17KSQ",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 63914,
+            "lat": 48.1805416,
+            "lon": 11.511879,
+            "name": "EDEKA, Dachauer Straße 423, 80992 München",
+            "partnerId": "5064",
+            "placeId": "J1OA15",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 63915,
+            "lat": 48.1440722,
+            "lon": 11.5357401,
+            "name": "EDEKA, Erika-Mann-Straße 68, 80636 München",
+            "partnerId": "5064",
+            "placeId": "J33EVU",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 63916,
+            "lat": 48.1132694,
+            "lon": 11.5491984,
+            "name": "EDEKA, Thalkirchner Straße 190, 81371 München",
+            "partnerId": "5064",
+            "placeId": "J3W93G",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 63923,
+            "lat": 48.11363,
+            "lon": 11.53343,
+            "name": "EDEKA, Passauer Straße 36, 81369 München",
+            "partnerId": "5064",
+            "placeId": "J2YGEG",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 63925,
+            "lat": 48.1410495,
+            "lon": 11.5189739,
+            "name": "EDEKA, Elsenheimer Straße 1, 80687 München",
+            "partnerId": "5064",
+            "placeId": "J23H68",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 63961,
+            "lat": 48.1334231,
+            "lon": 11.5835286,
+            "name": "EDEKA, Zweibrückenstraße 5 - 7, 80331 München",
+            "partnerId": "5064",
+            "placeId": "J5XU6Q",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 63967,
+            "lat": 48.149247,
+            "lon": 11.5293262,
+            "name": "EDEKA, Renatastraße 20 a, 80634 München",
+            "partnerId": "5064",
+            "placeId": "J2PO0W",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64026,
+            "lat": 48.1489285,
+            "lon": 11.5579888,
+            "name": "EDEKA, Dachauer Straße 63 - 65, 80335 München",
+            "partnerId": "5064",
+            "placeId": "J4F3N5",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64098,
+            "lat": 48.19705279999999,
+            "lon": 11.5245949,
+            "name": "EDEKA, Feldmochinger Straße 216, 80995 München",
+            "partnerId": "5064",
+            "placeId": "J2FJBO",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64144,
+            "lat": 48.1060496,
+            "lon": 11.5745478,
+            "name": "EDEKA, Säbener Straße 21, 81547 München",
+            "partnerId": "5064",
+            "placeId": "J5EL0G",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64162,
+            "lat": 48.1626817,
+            "lon": 11.5788432,
+            "name": "EDEKA, Herzogstraße 43, 80803 München",
+            "partnerId": "5064",
+            "placeId": "J5NSVU",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64276,
+            "lat": 48.11048659999999,
+            "lon": 11.594239,
+            "name": "EDEKA, Giesinger Bahnhofplatz 3, 81539 München",
+            "partnerId": "5064",
+            "placeId": "J6KSFG",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64277,
+            "lat": 48.1225834,
+            "lon": 11.5774377,
+            "name": "EDEKA, Entenbachstraße 28, 81541 München",
+            "partnerId": "5064",
+            "placeId": "J5KS4J",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64319,
+            "lat": 48.122054,
+            "lon": 11.5891409,
+            "name": "EDEKA, Welfenstraße 24, 81541 München",
+            "partnerId": "5064",
+            "placeId": "J69V5A",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64321,
+            "lat": 48.15436099999999,
+            "lon": 11.553032,
+            "name": "EDEKA, Lothstraße 15, 80335 München",
+            "partnerId": "5064",
+            "placeId": "J44H7R",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64331,
+            "lat": 48.18313329999999,
+            "lon": 11.5069337,
+            "name": "EDEKA, Dachauer Straße 457, 80993 München",
+            "partnerId": "5064",
+            "placeId": "J1DOGX",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64336,
+            "lat": 48.1392369,
+            "lon": 11.5660153,
+            "name": "EDEKA, Karlsplatz (Stachus), 80335 München",
+            "partnerId": "5064",
+            "placeId": "J4WAWA",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64337,
+            "lat": 48.1406038,
+            "lon": 11.5350703,
+            "name": "EDEKA, Landsberger Straße 110 - 114, 80339 München",
+            "partnerId": "5064",
+            "placeId": "J31Z6C",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64338,
+            "lat": 48.16522399999999,
+            "lon": 11.5333621,
+            "name": "EDEKA, Paschstraße 46, 80637 München",
+            "partnerId": "5064",
+            "placeId": "J2YBK6",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64395,
+            "lat": 48.1409069,
+            "lon": 11.5890605,
+            "name": "EDEKA, Triftstraße 10, 80538 München",
+            "partnerId": "5064",
+            "placeId": "J69P37",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64396,
+            "lat": 48.14161,
+            "lon": 11.5852934,
+            "name": "EDEKA, Christophstraße 9, 80538 München",
+            "partnerId": "5064",
+            "placeId": "J61MF8",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64399,
+            "lat": 48.13431689999999,
+            "lon": 11.5349318,
+            "name": "EDEKA, Anglerstraße 6, 80339 München",
+            "partnerId": "5064",
+            "placeId": "J31OFV",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64434,
+            "lat": 48.1003883,
+            "lon": 11.5469207,
+            "name": "EDEKA, Schäftlarnstraße 181+183, 81371 München",
+            "partnerId": "5064",
+            "placeId": "J3RD8X",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64439,
+            "lat": 48.1614192,
+            "lon": 11.5407464,
+            "name": "EDEKA, Heideckstraße 27, 80637 München",
+            "partnerId": "5064",
+            "placeId": "J3E5B2",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64513,
+            "lat": 48.11396,
+            "lon": 11.57139,
+            "name": "EDEKA, Jamnitzerstraße 2-4, 81543 München",
+            "partnerId": "5064",
+            "placeId": "J57TEZ",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64514,
+            "lat": 48.1264323,
+            "lon": 11.5821956,
+            "name": "EDEKA, Zeppelinstraße 25, 81541 München",
+            "partnerId": "5064",
+            "placeId": "J5UZA0",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64522,
+            "lat": 48.11578979999999,
+            "lon": 11.5930658,
+            "name": "EDEKA, Schlierseestraße 23, 81541 München",
+            "partnerId": "5064",
+            "placeId": "J6I9Y1",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64530,
+            "lat": 48.1321969,
+            "lon": 11.5762674,
+            "name": "EDEKA, Reichenbachstraße 19, 80469 München",
+            "partnerId": "5064",
+            "placeId": "J5I9WD",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64646,
+            "lat": 48.1293416,
+            "lon": 11.5683556,
+            "name": "EDEKA, Holzstraße 25, 80469 München",
+            "partnerId": "5064",
+            "placeId": "J51BED",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64683,
+            "lat": 48.1585001,
+            "lon": 11.5477914,
+            "name": "EDEKA, Leonrodplatz 1, 80636 München",
+            "partnerId": "5064",
+            "placeId": "J3T8VP",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64690,
+            "lat": 48.1299716,
+            "lon": 11.5710438,
+            "name": "EDEKA, Ickstattstraße 1, 80469 München",
+            "partnerId": "5064",
+            "placeId": "J572TR",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64691,
+            "lat": 48.1448969,
+            "lon": 11.5610965,
+            "name": "EDEKA, Karlstraße 46, 80333 München",
+            "partnerId": "5064",
+            "placeId": "J4LREI",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64698,
+            "lat": 48.15348609999999,
+            "lon": 11.522837,
+            "name": "EDEKA, Nibelungenstraße 32, 80639 München",
+            "partnerId": "5064",
+            "placeId": "J2BRCI",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64712,
+            "lat": 48.13590929999999,
+            "lon": 11.5430152,
+            "name": "EDEKA, Gollierstraße 24, 80339 München",
+            "partnerId": "5064",
+            "placeId": "J3J067",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64718,
+            "lat": 48.1288675,
+            "lon": 11.5572395,
+            "name": "EDEKA, Lindwurmstraße 95, 80337 München",
+            "partnerId": "5064",
+            "placeId": "J4DHO6",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64732,
+            "lat": 48.156345,
+            "lon": 11.565564,
+            "name": "NETTO, Hiltensperger Str. 11, 80798 München",
+            "partnerId": "5067",
+            "placeId": "J4VC7F",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64733,
+            "lat": 48.1503876,
+            "lon": 11.5637384,
+            "name": "NETTO, Augustenstr. 75, 80333 München",
+            "partnerId": "5067",
+            "placeId": "J4RFAN",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64734,
+            "lat": 48.1507001,
+            "lon": 11.5749656,
+            "name": "NETTO, Schellingstraße 38, 80799 München",
+            "partnerId": "5067",
+            "placeId": "J5FHLF",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64735,
+            "lat": 48.1719876,
+            "lon": 11.5857956,
+            "name": "NETTO, Leopoldstr. 157, 80804 München",
+            "partnerId": "5067",
+            "placeId": "J62PEN",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64736,
+            "lat": 48.1616854,
+            "lon": 11.5689537,
+            "name": "NETTO, Hohenzollernplatz 7, 80796 München",
+            "partnerId": "5067",
+            "placeId": "J52LSQ",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64737,
+            "lat": 48.1665716,
+            "lon": 11.5775982,
+            "name": "NETTO, Karl-Theodor-Str. 55, 80803 München",
+            "partnerId": "5067",
+            "placeId": "J5L4UL",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64738,
+            "lat": 48.1290584,
+            "lon": 11.5715223,
+            "name": "NETTO, Klenzestraße 50, 80469 München",
+            "partnerId": "5067",
+            "placeId": "J583QO",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64739,
+            "lat": 48.1460125,
+            "lon": 11.5407519,
+            "name": "NETTO, Weiglstr. 5, 80636 München",
+            "partnerId": "5067",
+            "placeId": "J3E5M2",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64740,
+            "lat": 48.1548337,
+            "lon": 11.537676,
+            "name": "NETTO, Leonrodstraße 31, 80636 München",
+            "partnerId": "5067",
+            "placeId": "J37KCC",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64742,
+            "lat": 48.1109751,
+            "lon": 11.5905907,
+            "name": "NETTO, Deisenhofener Str. 80, 81539 München",
+            "partnerId": "5067",
+            "placeId": "J6CYXF",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64743,
+            "lat": 48.1124446,
+            "lon": 11.5807415,
+            "name": "NETTO, Perlacher Str. 21, 81539 München",
+            "partnerId": "5067",
+            "placeId": "J5RUYY",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64745,
+            "lat": 48.1846892,
+            "lon": 11.5678485,
+            "name": "NETTO, Milbertshofener Str. 9, 80807 München",
+            "partnerId": "5067",
+            "placeId": "J508P4",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64749,
+            "lat": 48.1927374,
+            "lon": 11.5497386,
+            "name": "NETTO, Lerchenauer Str. 160, 80935 München",
+            "partnerId": "5067",
+            "placeId": "J3XFE3",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64750,
+            "lat": 48.1820441,
+            "lon": 11.5352824,
+            "name": "NETTO, Pelkovenstr. 154, 80992 München",
+            "partnerId": "5067",
+            "placeId": "J32FV0",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64753,
+            "lat": 48.1018103,
+            "lon": 11.545964,
+            "name": "NETTO, Pognerstr. 40, 81379 München",
+            "partnerId": "5067",
+            "placeId": "J3PBFU",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64754,
+            "lat": 48.1387825,
+            "lon": 11.5034416,
+            "name": "NETTO, Fürstenrieder Straße 35, 80686 München",
+            "partnerId": "5067",
+            "placeId": "J166OB",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64757,
+            "lat": 48.1019933,
+            "lon": 11.5276136,
+            "name": "NETTO, Zielstattstraße 63, 81379 München",
+            "partnerId": "5067",
+            "placeId": "J2LZIJ",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64758,
+            "lat": 48.1894121,
+            "lon": 11.5035883,
+            "name": "NETTO, Dachauer Str. 362, 80993 München",
+            "partnerId": "5067",
+            "placeId": "J16IDW",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 64760,
+            "lat": 48.1132349,
+            "lon": 11.5112011,
+            "name": "NETTO, Waldfriedhofstraße 38, 81377 München",
+            "partnerId": "5067",
+            "placeId": "J1MT7E",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 69728,
+            "lat": 48.178455,
+            "lon": 11.505288,
+            "name": "Kaufland, Bunzlauer Platz 5-7, 80992 München-Moosach",
+            "partnerId": "5069",
+            "placeId": "J1A5G8",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 69769,
+            "lat": 48.1627015,
+            "lon": 11.5865918,
+            "name": "Alnatura",
+            "partnerId": "387",
+            "placeId": "00000070",
+            "street": "Münchener Freiheit 7",
+            "wifiCheckinEnabled": true,
+            "wifis": [
+                {
+                    "bssid": "20:a6:cd:88:82:62",
+                    "id": 118809
+                },
+                {
+                    "bssid": "20:a6:cd:88:82:61",
+                    "id": 118810
+                }
+            ],
+            "zipCode": "80802"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 69778,
+            "lat": 48.1276255,
+            "lon": 11.5548256,
+            "name": "Alnatura",
+            "partnerId": "387",
+            "placeId": "00000112",
+            "street": "Lindwurmstr. 117",
+            "wifiCheckinEnabled": true,
+            "wifis": [
+                {
+                    "bssid": "20:a6:cd:88:88:d2",
+                    "id": 118803
+                },
+                {
+                    "bssid": "20:a6:cd:88:88:d1",
+                    "id": 118804
+                }
+            ],
+            "zipCode": "80337"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 69781,
+            "lat": 48.159773,
+            "lon": 11.5859119,
+            "name": "Alnatura",
+            "partnerId": "387",
+            "placeId": "00000121",
+            "street": "Leopoldstrasse 64",
+            "wifiCheckinEnabled": true,
+            "wifis": [
+                {
+                    "bssid": "20:a6:cd:8b:58:92",
+                    "id": 118807
+                },
+                {
+                    "bssid": "20:a6:cd:8b:58:91",
+                    "id": 118808
+                }
+            ],
+            "zipCode": "80802"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 69798,
+            "lat": 48.1458482,
+            "lon": 11.5196051,
+            "name": "Alnatura",
+            "partnerId": "387",
+            "placeId": "00000084",
+            "street": "Friedenheimer Brücke  23",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80639"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 69806,
+            "lat": 48.1283985,
+            "lon": 11.5977806,
+            "name": "Alnatura",
+            "partnerId": "387",
+            "placeId": "00000066",
+            "street": "Weißenburger Strasse 20",
+            "wifiCheckinEnabled": true,
+            "zipCode": "81667"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 69868,
+            "lat": 48.1528173,
+            "lon": 11.5344585,
+            "name": "Alnatura",
+            "partnerId": "387",
+            "placeId": "00000104",
+            "street": "Nymphenburger Straße 158",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80634"
+        },
+        {
+            "id": 69895,
+            "lat": 48.18381,
+            "lon": 11.53125,
+            "name": "WMF Group GmbH, Hanauer Str. 68, 80993 München",
+            "partnerId": "504",
+            "placeId": "4005155",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 69899,
+            "lat": 48.13769,
+            "lon": 11.57504,
+            "name": "WMF Group GmbH, Weinstr. 4, 80333 München",
+            "partnerId": "504",
+            "placeId": "4005051",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 70059,
+            "lat": 48.1108,
+            "lon": 11.5744,
+            "name": "Stadiums, 0, 0 Grünwalder_Stadion ",
+            "partnerId": "5006",
+            "placeId": "J5E9N8",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 70095,
+            "lat": 48.1731,
+            "lon": 11.5467,
+            "name": "Stadiums, 0, 0 Olympiastadion_(Munich) ",
+            "partnerId": "5006",
+            "placeId": "J3QWS3",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 72241,
+            "lat": 48.126535,
+            "lon": 11.553504,
+            "name": "Penny, Zenettistr. 48, 80337 München",
+            "partnerId": "544",
+            "placeId": "66300081",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 72306,
+            "lat": 48.124064,
+            "lon": 11.533327,
+            "name": "Penny, Am Westpark 8, 81373 München",
+            "partnerId": "544",
+            "placeId": "66300562",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 72320,
+            "lat": 48.124676,
+            "lon": 11.541611,
+            "name": "Penny, Pfeuferstr. 33, 81373 München",
+            "partnerId": "544",
+            "placeId": "66300006",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 72374,
+            "lat": 48.11595,
+            "lon": 11.571108,
+            "name": "Penny, Winterstr. 12, 81543 München",
+            "partnerId": "544",
+            "placeId": "66300073",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 72621,
+            "lat": 48.175314,
+            "lon": 11.582052,
+            "name": "Penny, Isoldenstr. 60, 80804 München",
+            "partnerId": "544",
+            "placeId": "66300565",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 72630,
+            "lat": 48.1012,
+            "lon": 11.51809,
+            "name": "Penny, Zielstattstr. 10, 81379 München",
+            "partnerId": "544",
+            "placeId": "66300483",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 72646,
+            "lat": 48.109419,
+            "lon": 11.591844,
+            "name": "Penny, Perlacher Str. 122A, 81539 München",
+            "partnerId": "544",
+            "placeId": "66300075",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 72751,
+            "lat": 48.154886,
+            "lon": 11.538392,
+            "name": "Penny, Leonrodstr. 35, 80636 München",
+            "partnerId": "544",
+            "placeId": "66300123",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 72768,
+            "lat": 48.114206,
+            "lon": 11.58373,
+            "name": "Penny, Deisenhofener Str. 21-23, 81539 München",
+            "partnerId": "544",
+            "placeId": "66300159",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 72780,
+            "lat": 48.11665,
+            "lon": 11.50206,
+            "name": "Penny, Fürstenrieder Str. 256, 81377 München",
+            "partnerId": "544",
+            "placeId": "66300336",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 72799,
+            "lat": 48.131938,
+            "lon": 11.597414,
+            "name": "Penny, Preysingstr. 42, 81667 München",
+            "partnerId": "544",
+            "placeId": "66300027",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 73234,
+            "lat": 48.132614,
+            "lon": 11.502532,
+            "name": "Penny, Fürstenrieder Str. 90, 80686 München",
+            "partnerId": "544",
+            "placeId": "66300300",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 73279,
+            "lat": 48.14445,
+            "lon": 11.562407,
+            "name": "Penny, Karlstr. 36, 80333 München",
+            "partnerId": "544",
+            "placeId": "66300580",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 73304,
+            "lat": 48.102667,
+            "lon": 11.595867,
+            "name": "Penny, Stadelheimer Str. 71, 81549 München",
+            "partnerId": "544",
+            "placeId": "66300552",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 73305,
+            "lat": 48.118178,
+            "lon": 11.521923,
+            "name": "Penny, Ohlstadter Str. 22, 81373 München",
+            "partnerId": "544",
+            "placeId": "66300295",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 73452,
+            "lat": 48.152152,
+            "lon": 11.529949,
+            "name": "Penny, Wendl-Dietrich-Str. 13, 80634 München",
+            "partnerId": "544",
+            "placeId": "66300224",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 73531,
+            "lat": 48.114572,
+            "lon": 11.581177,
+            "name": "Penny, Deisenhofener Str. 14-16, 81539 München",
+            "partnerId": "544",
+            "placeId": "66300096",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 73543,
+            "lat": 48.182708,
+            "lon": 11.59379,
+            "name": "Penny, Alfred-Arndt-Str. 1, 80807 München",
+            "partnerId": "544",
+            "placeId": "66300052",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 73557,
+            "lat": 48.12548,
+            "lon": 11.56185,
+            "name": "Penny, Thalkirchner Str. 88, 80337 München",
+            "partnerId": "544",
+            "placeId": "66300297",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 73564,
+            "lat": 48.13144,
+            "lon": 11.57536,
+            "name": "Penny, Klenzestr. 26, 80469 München",
+            "partnerId": "544",
+            "placeId": "66300153",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 73566,
+            "lat": 48.172682,
+            "lon": 11.565511,
+            "name": "Penny, Schleißheimer Str. 260, 80809 München",
+            "partnerId": "544",
+            "placeId": "66300047",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 73575,
+            "lat": 48.121134,
+            "lon": 11.548735,
+            "name": "Penny, Implerstr. 27, 81371 München",
+            "partnerId": "544",
+            "placeId": "66300001",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 73617,
+            "lat": 48.11086,
+            "lon": 11.52995,
+            "name": "Penny, Konrad-Celtis-Str. 33a, 81369 München",
+            "partnerId": "544",
+            "placeId": "66300553",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 73633,
+            "lat": 48.168388,
+            "lon": 11.574154,
+            "name": "Penny, Belgradstr. 72, 80804 München",
+            "partnerId": "544",
+            "placeId": "66300164",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 73990,
+            "lat": 48.172682,
+            "lon": 11.565511,
+            "name": "Penny, Schleißheimer Str. 267, 80809 München",
+            "partnerId": "544",
+            "placeId": "66300541",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 74035,
+            "lat": 48.105586,
+            "lon": 11.592484,
+            "name": "Penny, Chiemgaustr. 52-54, 81549 München",
+            "partnerId": "544",
+            "placeId": "66300255",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 74053,
+            "lat": 48.15914,
+            "lon": 11.58533,
+            "name": "Penny, Leopoldstr. 37, 80802 München",
+            "partnerId": "544",
+            "placeId": "66300586",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 74097,
+            "lat": 48.186612,
+            "lon": 11.561767,
+            "name": "Penny, Moosacher Str. 23, 80809 München",
+            "partnerId": "544",
+            "placeId": "66300258",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 74141,
+            "lat": 48.101059,
+            "lon": 11.55911,
+            "name": "Penny, Schönstr. 126, 81543 München",
+            "partnerId": "544",
+            "placeId": "66300538",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 74176,
+            "lat": 48.16027,
+            "lon": 11.57852,
+            "name": "Penny, Hohenzollernstr. 56, 80801 München",
+            "partnerId": "544",
+            "placeId": "66300183",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 74196,
+            "lat": 48.15703,
+            "lon": 11.54392,
+            "name": "Penny, Leonrodstr. 48, 80636 München",
+            "partnerId": "544",
+            "placeId": "66300559",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 74201,
+            "lat": 48.12715,
+            "lon": 11.591963,
+            "name": "Penny, Rablstr. 26, 81669 München",
+            "partnerId": "544",
+            "placeId": "66300012",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 74251,
+            "lat": 48.138875,
+            "lon": 11.515165,
+            "name": "Penny, Agnes-Bernauer-Str. 21, 80687 München",
+            "partnerId": "544",
+            "placeId": "66300110",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 74292,
+            "lat": 48.15019,
+            "lon": 11.556974,
+            "name": "Penny, Sandstr. 37-39, 80335 München",
+            "partnerId": "544",
+            "placeId": "66300531",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 78044,
+            "lat": 48.133655,
+            "lon": 11.54479,
+            "name": "EDEKA, Theresienhöhe 12, 80339 München",
+            "partnerId": "5064",
+            "placeId": "J3NSU0",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 78076,
+            "lat": 48.18391,
+            "lon": 11.53692,
+            "name": "Hussel Confiserie, Riesstr. 59, 80993 München",
+            "partnerId": "449",
+            "placeId": "220",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 81352,
+            "lat": 48.14308,
+            "lon": 11.55634,
+            "name": "ALDI, 0, 80335 München-Maxvorstadt ",
+            "partnerId": "5065",
+            "placeId": "J4BKDI",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 81353,
+            "lat": 48.13742,
+            "lon": 11.56234,
+            "name": "ALDI, 0, 80336 München-Ludwigsvorstadt ",
+            "partnerId": "5065",
+            "placeId": "J4OFAM",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 81354,
+            "lat": 48.13401,
+            "lon": 11.54526,
+            "name": "ALDI, 0, 80339 München ",
+            "partnerId": "5065",
+            "placeId": "J3NTD8",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 81355,
+            "lat": 48.14521,
+            "lon": 11.51961,
+            "name": "ALDI, 0, 80639 München-Nymphenburg ",
+            "partnerId": "5065",
+            "placeId": "J24UAC",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 81356,
+            "lat": 48.14676,
+            "lon": 11.5029,
+            "name": "ALDI, 0, 80639 München-Nymphenburg ",
+            "partnerId": "5065",
+            "placeId": "J150Y3",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 81359,
+            "lat": 48.18735,
+            "lon": 11.59231,
+            "name": "ALDI, 0, 80807 München ",
+            "partnerId": "5065",
+            "placeId": "J6GO6H",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 81360,
+            "lat": 48.18743,
+            "lon": 11.57044,
+            "name": "ALDI, 0, 80807 München-Milbertshofen ",
+            "partnerId": "5065",
+            "placeId": "J55SOI",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 81365,
+            "lat": 48.1826,
+            "lon": 11.5304,
+            "name": "ALDI, 0, 80992 München-Moosach ",
+            "partnerId": "5065",
+            "placeId": "J2RZ4Y",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 81366,
+            "lat": 48.18155,
+            "lon": 11.50877,
+            "name": "ALDI, 0, 80992 München-Moosach ",
+            "partnerId": "5065",
+            "placeId": "J1HM5B",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 81367,
+            "lat": 48.1882,
+            "lon": 11.5033,
+            "name": "ALDI, 0, 80993 München-Moosach ",
+            "partnerId": "5065",
+            "placeId": "J15W4Q",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 81372,
+            "lat": 48.1236,
+            "lon": 11.54882,
+            "name": "ALDI, 0, 81371 München ",
+            "partnerId": "5065",
+            "placeId": "J3VFZ8",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 81374,
+            "lat": 48.10135,
+            "lon": 11.52558,
+            "name": "ALDI, 0, 81379 München ",
+            "partnerId": "5065",
+            "placeId": "J2HMLH",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 81377,
+            "lat": 48.11641,
+            "lon": 11.57297,
+            "name": "ALDI, 0, 81543 München-Giesing ",
+            "partnerId": "5065",
+            "placeId": "J5B7CK",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 81378,
+            "lat": 48.1052,
+            "lon": 11.5972,
+            "name": "ALDI, 0, 81549 München ",
+            "partnerId": "5065",
+            "placeId": "J6R4V0",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 81380,
+            "lat": 48.12987,
+            "lon": 11.59141,
+            "name": "ALDI, 0, 81669 München ",
+            "partnerId": "5065",
+            "placeId": "J6EQAI",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 81978,
+            "lat": 48.1366,
+            "lon": 11.56095,
+            "name": "H-Hotel, Schillerstr. 28, 80336 München",
+            "partnerId": "473",
+            "placeId": "8075",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 82557,
+            "lat": 48.18375,
+            "lon": 11.57276,
+            "name": "LIDL, Knorrstr. 57, 80807 München",
+            "partnerId": "5066",
+            "placeId": "3184",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 82746,
+            "lat": 48.11953,
+            "lon": 11.55809,
+            "name": "LIDL, Dreimühlenstr. 42, 81371 München",
+            "partnerId": "5066",
+            "placeId": "3438",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 82753,
+            "lat": 48.16888,
+            "lon": 11.58647,
+            "name": "LIDL, Leopoldstr. 144, 80804 München",
+            "partnerId": "5066",
+            "placeId": "3452",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 82857,
+            "lat": 48.158,
+            "lon": 11.5624,
+            "name": "LIDL, Schleißheimer Str. 85-87, 80797 München",
+            "partnerId": "5066",
+            "placeId": "1786",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 82868,
+            "lat": 48.1875,
+            "lon": 11.56831,
+            "name": "LIDL, Frankfurter Ring 5, 80807 München",
+            "partnerId": "5066",
+            "placeId": "1800",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 82988,
+            "lat": 48.14983,
+            "lon": 11.56626,
+            "name": "LIDL, Luisenstr. 51-53, 80333 München",
+            "partnerId": "5066",
+            "placeId": "1954",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 83085,
+            "lat": 48.10085,
+            "lon": 11.52925,
+            "name": "LIDL, Hofmannstr. 16, 81379 München",
+            "partnerId": "5066",
+            "placeId": "2099",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 83223,
+            "lat": 48.11949,
+            "lon": 11.5023,
+            "name": "LIDL, Fürstenrieder Str. 220, 81377 München",
+            "partnerId": "5066",
+            "placeId": "3938",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 83630,
+            "lat": 48.13831,
+            "lon": 11.53662,
+            "name": "LIDL, Westendstr. 100, 80339 München",
+            "partnerId": "5066",
+            "placeId": "3692",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 83867,
+            "lat": 48.1373,
+            "lon": 11.56003,
+            "name": "LIDL, Schwanthaler Str. 31, 80336 München",
+            "partnerId": "5066",
+            "placeId": "5452",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 83878,
+            "lat": 48.11675,
+            "lon": 11.53232,
+            "name": "LIDL, Albert-Roßhaupter-Str. 35-39, 81369 München",
+            "partnerId": "5066",
+            "placeId": "5467",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 84064,
+            "lat": 48.15135,
+            "lon": 11.5575,
+            "name": "LIDL, Dachauer Str. 92, 80797 München",
+            "partnerId": "5066",
+            "placeId": "5661",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 84079,
+            "lat": 48.17312,
+            "lon": 11.5287,
+            "name": "LIDL, Hanauerstr. 2, 80992 München",
+            "partnerId": "5066",
+            "placeId": "5684",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 84156,
+            "lat": 48.18203,
+            "lon": 11.53427,
+            "name": "LIDL, Pelkovenstr. 152, 80992 München",
+            "partnerId": "5066",
+            "placeId": "4671",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 84179,
+            "lat": 48.19163,
+            "lon": 11.50246,
+            "name": "LIDL, Dachauer Str. 380, 80993 München",
+            "partnerId": "5066",
+            "placeId": "4833",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 84263,
+            "lat": 48.14257,
+            "lon": 11.55257,
+            "name": "LIDL, Hackerbrücke 4, 80335 München",
+            "partnerId": "5066",
+            "placeId": "5015",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 84429,
+            "lat": 48.1329,
+            "lon": 11.52498,
+            "name": "LIDL, Tübinger Str. 9, 80686 München",
+            "partnerId": "5066",
+            "placeId": "5234",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 84833,
+            "lat": 48.15013,
+            "lon": 11.54456,
+            "name": "LIDL, Nymphenburger Str. 81, 80636 München",
+            "partnerId": "5066",
+            "placeId": "5782",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 84971,
+            "lat": 48.14082,
+            "lon": 11.56184,
+            "name": "LIDL, Elisenstraße 3, 80335 München",
+            "partnerId": "5066",
+            "placeId": "5993",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 85493,
+            "lat": 48.1917,
+            "lon": 11.59723,
+            "name": "Fressnapf",
+            "partnerId": "430",
+            "placeId": "00005060",
+            "street": "Lotte Branz Str. 14",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80939"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 85494,
+            "lat": 48.19166,
+            "lon": 11.50139,
+            "name": "Fressnapf",
+            "partnerId": "430",
+            "placeId": "00002573",
+            "street": "Dachauer Straße 539",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80993"
+        },
+        {
+            "id": 86110,
+            "lat": 48.1383647,
+            "lon": 11.5690967,
+            "name": "Apollo-Optik Holding GmbH & Co. KG, Neuhauser Str.25, 80331 München",
+            "partnerId": "18",
+            "placeId": "00006024",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 86412,
+            "lat": 48.116706,
+            "lon": 11.544377,
+            "name": "Schwimmbäder, 0, 0 Valleystraße 37, 81371 München",
+            "partnerId": "5009",
+            "placeId": "J3LX3N",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 86415,
+            "lat": 48.174021,
+            "lon": 11.550473,
+            "name": "Schwimmbäder, 0, 0 Coubertinplatz 1, 80809 München",
+            "partnerId": "5009",
+            "placeId": "J3YZWW",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 86416,
+            "lat": 48.160239,
+            "lon": 11.563829,
+            "name": "Schwimmbäder, 0, 0 Schleißheimer Straße 142, 80797 München",
+            "partnerId": "5009",
+            "placeId": "J4RMD2",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 86524,
+            "lat": 48.174059,
+            "lon": 11.55639,
+            "name": "Tierparks, 0, 0 Willi-Daume-Platz 1, 80809 München",
+            "partnerId": "5008",
+            "placeId": "J4BOH0",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 86650,
+            "lat": 48.112949075,
+            "lon": 11.5760900826,
+            "name": "McDonalds, München, Martin-Luther-Straße, 81539 München",
+            "partnerId": "5073",
+            "placeId": "1",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 86657,
+            "lat": 48.15685745,
+            "lon": 11.5837017566,
+            "name": "McDonalds, München, Leopoldstraße, 80802 München",
+            "partnerId": "5073",
+            "placeId": "2",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 86663,
+            "lat": 48.1610996296,
+            "lon": 11.5632145273,
+            "name": "McDonalds, München, Hohenzollernstraße, 80797 München",
+            "partnerId": "5073",
+            "placeId": "3",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 86670,
+            "lat": 48.1375372877,
+            "lon": 11.5633615315,
+            "name": "McDonalds, München, Schwanthalerstraße, 80336 München",
+            "partnerId": "5073",
+            "placeId": "4",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 86677,
+            "lat": 48.1303630195,
+            "lon": 11.5581415537,
+            "name": "McDonalds, München, Goethestraße, 80336 München",
+            "partnerId": "5073",
+            "placeId": "5",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 86684,
+            "lat": 48.1421847244,
+            "lon": 11.5506050337,
+            "name": "McDonalds, München, Hackerbrücke, 80335 München",
+            "partnerId": "5073",
+            "placeId": "4101",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 86685,
+            "lat": 48.1171161,
+            "lon": 11.5391166,
+            "name": "McDonalds, München, Am Harras, 81373 München",
+            "partnerId": "5073",
+            "placeId": "6",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 86720,
+            "lat": 48.1491790845,
+            "lon": 11.5628266962,
+            "name": "McDonalds, München, Augustenstraße, 80333 München",
+            "partnerId": "5073",
+            "placeId": "11",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 86734,
+            "lat": 48.1397885028,
+            "lon": 11.5028318165,
+            "name": "McDonalds, München, Fürstenrieder Straße, 80687 München",
+            "partnerId": "5073",
+            "placeId": "13",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 86848,
+            "lat": 48.1526700316,
+            "lon": 11.5348568124,
+            "name": "McDonalds, München, Nymphenburger Straße, 80634 München",
+            "partnerId": "5073",
+            "placeId": "30",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 86886,
+            "lat": 48.12100705,
+            "lon": 11.5858917239,
+            "name": "McDonalds, München, Regerstraße, 81541 München",
+            "partnerId": "5073",
+            "placeId": "2852",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 87079,
+            "lat": 48.1360321377,
+            "lon": 11.5782335941,
+            "name": "McDonalds, München, Tal, 80331 München",
+            "partnerId": "5073",
+            "placeId": "69",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 87142,
+            "lat": 48.1408321058,
+            "lon": 11.5595963023,
+            "name": "McDonalds, München, Bahnhofplatz, 80335 München",
+            "partnerId": "5073",
+            "placeId": "2895",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 87146,
+            "lat": 48.133306966,
+            "lon": 11.582992773,
+            "name": "McDonalds, München, Zweibrückenstraße, 80331 München",
+            "partnerId": "5073",
+            "placeId": "336",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 87270,
+            "lat": 48.1922392623,
+            "lon": 11.5845544733,
+            "name": "McDonalds, München, Maria-Probst-Straße, 80939 München",
+            "partnerId": "5073",
+            "placeId": "101",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 87317,
+            "lat": 48.1840518359,
+            "lon": 11.5310640647,
+            "name": "McDonalds, München, Hanauer Straße, 80993 München",
+            "partnerId": "5073",
+            "placeId": "109",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 87622,
+            "lat": 48.1614809,
+            "lon": 11.58862,
+            "name": "McDonalds, München, Feilitzschstraße, 80802 München",
+            "partnerId": "5073",
+            "placeId": "165",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 87646,
+            "lat": 48.138929718,
+            "lon": 11.566318677,
+            "name": "McDonalds, München, Karlsplatz, 80335 München",
+            "partnerId": "5073",
+            "placeId": "426",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 87694,
+            "lat": 48.1835764821,
+            "lon": 11.5324995947,
+            "name": "McDonalds, München, Hanauer Straße, 80993 München",
+            "partnerId": "5073",
+            "placeId": "2739",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 88316,
+            "lat": 48.130343,
+            "lon": 11.568517,
+            "name": "Indoorspielplätze, Holzstr. 9, 80469 München   ",
+            "partnerId": "5007",
+            "placeId": "J51NUZ",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 88579,
+            "lat": 48.13953,
+            "lon": 11.55918,
+            "name": "Burger King, Bayerstr. 10a, 80335 München",
+            "partnerId": "439",
+            "placeId": "00015669",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 88609,
+            "lat": 48.1377889,
+            "lon": 11.5645098,
+            "name": "Burger King, Sonnenstrasse 6, 80331 München",
+            "partnerId": "439",
+            "placeId": "00006984",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 88823,
+            "lat": 48.11329,
+            "lon": 11.50281,
+            "name": "Burger King, Pollingerstr. 2, 81377 München",
+            "partnerId": "439",
+            "placeId": "00011944",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 88847,
+            "lat": 48.1864758,
+            "lon": 11.5365794,
+            "name": "Burger King, Triebstr. 44, 80993 München",
+            "partnerId": "439",
+            "placeId": "00015920",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 88907,
+            "lat": 48.1892383,
+            "lon": 11.5026241,
+            "name": "Burger King, Dachauer Strasse 515, 80993 München",
+            "partnerId": "439",
+            "placeId": "00010670",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 89066,
+            "lat": 48.18694,
+            "lon": 11.5365,
+            "name": "A.T.U. GmbH & Co. KG, Triebstr. 39, 80993 München",
+            "partnerId": "426",
+            "placeId": "338",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 89133,
+            "lat": 48.14172,
+            "lon": 11.5164,
+            "name": "A.T.U. GmbH & Co. KG, Landsberger Str. 208, 80687 München",
+            "partnerId": "426",
+            "placeId": "448",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 89940,
+            "lat": 48.1427,
+            "lon": 11.5094,
+            "name": "VW Werkstätten, Landsberger Stra%C3%9Fe 240, 80687 M%C3%BCnchen",
+            "partnerId": "5074",
+            "placeId": "22374",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 90695,
+            "lat": 48.1311,
+            "lon": 11.5194,
+            "name": "VW Werkstätten, Westendstra%C3%9Fe 219, 80686 M%C3%BCnchen",
+            "partnerId": "5074",
+            "placeId": "48275",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 90697,
+            "lat": 48.1286,
+            "lon": 11.5901,
+            "name": "VW Werkstätten, Schleibingerstra%C3%9Fe 12 - 16, 81669 M%C3%BCnchen",
+            "partnerId": "5074",
+            "placeId": "48305",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 91014,
+            "lat": 48.176,
+            "lon": 11.5284,
+            "name": "VW Werkstätten, Georg-Brauchle-Ring 71, 80992 M%C3%BCnchen",
+            "partnerId": "5074",
+            "placeId": "64335",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 91084,
+            "lat": 48.1917,
+            "lon": 11.563,
+            "name": "VW Werkstätten, Detmoldstra%C3%9Fe 6, 80935 M%C3%BCnchen",
+            "partnerId": "5074",
+            "placeId": "67059",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 91844,
+            "lat": 48.19173,
+            "lon": 11.58731,
+            "name": "pitstop, Maria-Probst-Str.  6, 80939 München",
+            "partnerId": "5075",
+            "placeId": "606",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 91846,
+            "lat": 48.14175,
+            "lon": 11.518,
+            "name": "pitstop, Landsberger Str.  196, 80687 München",
+            "partnerId": "5075",
+            "placeId": "608",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 91847,
+            "lat": 48.15475,
+            "lon": 11.55257,
+            "name": "pitstop, Dachauer Str.  163, 80636 München",
+            "partnerId": "5075",
+            "placeId": "609",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 91848,
+            "lat": 48.11544,
+            "lon": 11.58484,
+            "name": "pitstop, Werinher Str.  23, 81541 München",
+            "partnerId": "5075",
+            "placeId": "610",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 92917,
+            "lat": 48.1841878,
+            "lon": 11.5292587,
+            "name": "Dänisches Bettenlager, Hanauer Strasse 85/85a, 80993 München",
+            "partnerId": "150",
+            "placeId": "F540",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 92962,
+            "lat": 48.19221,
+            "lon": 11.59598,
+            "name": "Dänisches Bettenlager, Maria-Probst-Str. 18, 80939 München",
+            "partnerId": "150",
+            "placeId": "F531",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 93361,
+            "lat": 48.1152,
+            "lon": 11.593,
+            "name": "MFO Matrazen, Schlierseestraße 29, 81541 München",
+            "partnerId": "5079",
+            "placeId": "15",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 93362,
+            "lat": 48.1194,
+            "lon": 11.575,
+            "name": "MFO Matrazen, Humboldstraße 34, 81543 München",
+            "partnerId": "5079",
+            "placeId": "16",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 93740,
+            "lat": 48.19278,
+            "lon": 11.59396,
+            "name": "Poco Domäne, Maria-Probst-Straße 19, 80939 München-Freimann",
+            "partnerId": "5083",
+            "placeId": "94",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 94257,
+            "lat": 48.1224,
+            "lon": 11.545,
+            "name": "Matrazen Conco, Lindwurmstraße 199, 80337 München-Sendling",
+            "partnerId": "5077",
+            "placeId": "IRRW1E1636",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 94302,
+            "lat": 48.1002,
+            "lon": 11.5298,
+            "name": "Matrazen Conco, Albert-Bayerle-Platz 2, 81379 München-Sendling",
+            "partnerId": "5077",
+            "placeId": "IRRWA90636",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 94437,
+            "lat": 48.1117,
+            "lon": 11.5397,
+            "name": "Matrazen Conco, Plinganserstr. 23, 81369 München",
+            "partnerId": "5077",
+            "placeId": "IRRW401636",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 94616,
+            "lat": 48.115,
+            "lon": 11.5796,
+            "name": "Matrazen Conco, Tegernseer Landstr. 69, 81539 München",
+            "partnerId": "5077",
+            "placeId": "IRRW690636",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 96604,
+            "lat": 48.13390441382851,
+            "lon": 11.545431911945345,
+            "name": "Livekarte",
+            "partnerId": "551",
+            "placeId": "551",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 96716,
+            "lat": 48.1166748,
+            "lon": 11.5333152,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "1505207965",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 97020,
+            "lat": 48.1834509,
+            "lon": 11.5731689,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "2634273588",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 97022,
+            "lat": 48.1291329,
+            "lon": 11.5081728,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "3638023905",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 97023,
+            "lat": 48.1488355,
+            "lon": 11.5292847,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "4689458668",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 97024,
+            "lat": 48.1345897,
+            "lon": 11.5336273,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "1201804325",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 97300,
+            "lat": 48.1341529,
+            "lon": 11.584797,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "297922629",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 97301,
+            "lat": 48.1167104,
+            "lon": 11.5375665,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "3504747753",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 97304,
+            "lat": 48.198107,
+            "lon": 11.5346925,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "662525298",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 97616,
+            "lat": 48.1363076,
+            "lon": 11.5564066,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "4535177045",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 97618,
+            "lat": 48.1787788,
+            "lon": 11.5210755,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "2504242638",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 97892,
+            "lat": 48.1514841,
+            "lon": 11.5569207,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "4213892298",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 97894,
+            "lat": 48.1788292,
+            "lon": 11.5644288,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "3523752511",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 98173,
+            "lat": 48.1524774,
+            "lon": 11.5643251,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "1567305573",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 98174,
+            "lat": 48.1388503,
+            "lon": 11.5316272,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "1252289985",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 98175,
+            "lat": 48.1675822,
+            "lon": 11.5646191,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "563705546",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 98176,
+            "lat": 48.1561377,
+            "lon": 11.5607054,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "3184231756",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 98177,
+            "lat": 48.1353719,
+            "lon": 11.5657787,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "4217474599",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 98179,
+            "lat": 48.1017681,
+            "lon": 11.5459095,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "4162021228",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 98180,
+            "lat": 48.1080356,
+            "lon": 11.5954371,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "1336946714",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 98498,
+            "lat": 48.1127444,
+            "lon": 11.5932946,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "1336946720",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 98499,
+            "lat": 48.111384,
+            "lon": 11.5950816,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "1336946710",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 98500,
+            "lat": 48.109764,
+            "lon": 11.5953397,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "3217563995",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 98501,
+            "lat": 48.1073535,
+            "lon": 11.574432,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "2349933136",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 98796,
+            "lat": 48.126636,
+            "lon": 11.5977091,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "1313765753",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 98798,
+            "lat": 48.1859751,
+            "lon": 11.5724414,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "1027177758",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 98799,
+            "lat": 48.1366622,
+            "lon": 11.542036,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "1581245267",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 98804,
+            "lat": 48.1392837,
+            "lon": 11.5045143,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "2901159157",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 98805,
+            "lat": 48.1813692,
+            "lon": 11.5139435,
+            "name": "Fahrschulen, 0, 0 0",
+            "partnerId": "5012",
+            "placeId": "2505266937",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 99128,
+            "lat": 48.1359662,
+            "lon": 11.5645101,
+            "name": "Fielmann, Sonnenstraße 20, 0 München",
+            "partnerId": "5086",
+            "placeId": "253",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 99181,
+            "lat": 48.157315,
+            "lon": 11.584813,
+            "name": "Fielmann, Leopoldstraße 46, 0 München",
+            "partnerId": "5086",
+            "placeId": "361",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 99304,
+            "lat": 48.12858,
+            "lon": 11.598221,
+            "name": "Fielmann, Weißenburger Straße 21, 0 München",
+            "partnerId": "5086",
+            "placeId": "611",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 99322,
+            "lat": 48.1359237,
+            "lon": 11.5802662,
+            "name": "Fielmann, Tal 23 - 25, 0 München",
+            "partnerId": "5086",
+            "placeId": "647",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 99427,
+            "lat": 48.116831,
+            "lon": 11.540374,
+            "name": "Fielmann, Plinganserstraße 51, 0 München",
+            "partnerId": "5086",
+            "placeId": "1015",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 99443,
+            "lat": 48.183277,
+            "lon": 11.533015,
+            "name": "Fielmann, Hanauer Straße 68, 0 München",
+            "partnerId": "5086",
+            "placeId": "1047",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 99692,
+            "lat": 48.1535,
+            "lon": 11.5328,
+            "name": "Matt Optik, 0, 0 München",
+            "partnerId": "5088",
+            "placeId": "36",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 99906,
+            "lat": 48.144408,
+            "lon": 11.537279,
+            "name": "Parkplätze, Lilli-Palmer-Straße 2, 80636 München",
+            "partnerId": "5011",
+            "placeId": "102826",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 99930,
+            "lat": 48.13735,
+            "lon": 11.559047,
+            "name": "Parkplätze, Schwanthalerstraße 39, 80336 München",
+            "partnerId": "5011",
+            "placeId": "102850",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 100147,
+            "lat": 48.139413,
+            "lon": 11.558023,
+            "name": "Parkplätze, Bayerstraße, 80335 München",
+            "partnerId": "5011",
+            "placeId": "100210",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 100148,
+            "lat": 48.140151,
+            "lon": 11.560396,
+            "name": "Parkplätze, Arnulfstraße 1; Bayerstraße, 80335 München",
+            "partnerId": "5011",
+            "placeId": "100211",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 100149,
+            "lat": 48.139997,
+            "lon": 11.560883,
+            "name": "Parkplätze, Bahnhofplatz 2, NULL NULL",
+            "partnerId": "5011",
+            "placeId": "100212",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 100150,
+            "lat": 48.138542,
+            "lon": 11.560039,
+            "name": "Parkplätze, Senefelderstraße/Goethestraße, 80336 München",
+            "partnerId": "5011",
+            "placeId": "100213",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101047,
+            "lat": 48.180759,
+            "lon": 11.504897,
+            "name": "Parkplätze, Memminger Platz, 80997 München",
+            "partnerId": "5011",
+            "placeId": "101120",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101048,
+            "lat": 48.131584,
+            "lon": 11.531479,
+            "name": "Parkplätze, Garmischer Straße 19, 81373 München",
+            "partnerId": "5011",
+            "placeId": "101121",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101079,
+            "lat": 48.139861,
+            "lon": 11.566451,
+            "name": "Parkplätze, Karlsplatz 6, 80335 München",
+            "partnerId": "5011",
+            "placeId": "101154",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101205,
+            "lat": 48.143301,
+            "lon": 11.559948,
+            "name": "Parkplätze, Dachauer Straße 13, 80335 München",
+            "partnerId": "5011",
+            "placeId": "101281",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101206,
+            "lat": 48.141087,
+            "lon": 11.56016,
+            "name": "Parkplätze, Arnulfstraße, 80335 München",
+            "partnerId": "5011",
+            "placeId": "101282",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101207,
+            "lat": 48.134533,
+            "lon": 11.580561,
+            "name": "Parkplätze, Frauenstraße 38, 80469 München",
+            "partnerId": "5011",
+            "placeId": "101283",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101208,
+            "lat": 48.132975,
+            "lon": 11.580891,
+            "name": "Parkplätze, Baaderstraße 6, 80469 München",
+            "partnerId": "5011",
+            "placeId": "101284",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101209,
+            "lat": 48.139822,
+            "lon": 11.564333,
+            "name": "Parkplätze, Karlsplatz 25, 80335 München",
+            "partnerId": "5011",
+            "placeId": "101285",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101210,
+            "lat": 48.141112,
+            "lon": 11.560234,
+            "name": "Parkplätze, Arnulfstraße, 80335 München",
+            "partnerId": "5011",
+            "placeId": "101286",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101211,
+            "lat": 48.142231,
+            "lon": 11.558414,
+            "name": "Parkplätze, Hirtenstraße 14, 80335 München",
+            "partnerId": "5011",
+            "placeId": "101287",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101249,
+            "lat": 48.142978,
+            "lon": 11.550751,
+            "name": "Parkplätze, Arnulfstraße 21, 80339 München",
+            "partnerId": "5011",
+            "placeId": "101325",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101893,
+            "lat": 48.14228,
+            "lon": 11.560573,
+            "name": "Parkplätze, Elisenstraße, 80335 München",
+            "partnerId": "5011",
+            "placeId": "101973",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101899,
+            "lat": 48.137322,
+            "lon": 11.566375,
+            "name": "Parkplätze, Herzog-Wilhelm-Straße 11, 80331 München",
+            "partnerId": "5011",
+            "placeId": "101979",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101984,
+            "lat": 48.139555,
+            "lon": 11.560683,
+            "name": "Parkplätze, Bahnhofplatz 2, 80335 München",
+            "partnerId": "5011",
+            "placeId": "102064",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101985,
+            "lat": 48.138217,
+            "lon": 11.563687,
+            "name": "Parkplätze, Adolf-Kolping-Straße 10, 80336 München",
+            "partnerId": "5011",
+            "placeId": "102065",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101986,
+            "lat": 48.137316,
+            "lon": 11.559309,
+            "name": "Parkplätze, Schwanthalerstraße 37, 80336 München",
+            "partnerId": "5011",
+            "placeId": "102066",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101987,
+            "lat": 48.138319,
+            "lon": 11.560168,
+            "name": "Parkplätze, Senefelderstraße 7-13, 80336 München",
+            "partnerId": "5011",
+            "placeId": "102067",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101989,
+            "lat": 48.140015,
+            "lon": 11.568899,
+            "name": "Parkplätze, Maxburgstraße 7, 80333 München",
+            "partnerId": "5011",
+            "placeId": "102069",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101994,
+            "lat": 48.139413,
+            "lon": 11.559929,
+            "name": "Parkplätze, Bayerstraße, 80335 München",
+            "partnerId": "5011",
+            "placeId": "102074",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101995,
+            "lat": 48.139384,
+            "lon": 11.557955,
+            "name": "Parkplätze, Bayerstraße 45, 80336 München",
+            "partnerId": "5011",
+            "placeId": "102075",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101996,
+            "lat": 48.138528,
+            "lon": 11.560063,
+            "name": "Parkplätze, Senefelderstraße, 80336 München",
+            "partnerId": "5011",
+            "placeId": "102076",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101997,
+            "lat": 48.141193,
+            "lon": 11.562778,
+            "name": "Parkplätze, Luitpoldstraße 3, 80335 München",
+            "partnerId": "5011",
+            "placeId": "102077",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101998,
+            "lat": 48.138782,
+            "lon": 11.560114,
+            "name": "Parkplätze, Bayerstraße 31, 80336 München",
+            "partnerId": "5011",
+            "placeId": "102078",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 101999,
+            "lat": 48.144107,
+            "lon": 11.55972,
+            "name": "Parkplätze, Dachauer Straße 21, 80335 München",
+            "partnerId": "5011",
+            "placeId": "102079",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 102000,
+            "lat": 48.143668,
+            "lon": 11.554731,
+            "name": "Parkplätze, Hopfenstraße 6, 80335 München",
+            "partnerId": "5011",
+            "placeId": "102080",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 102001,
+            "lat": 48.142335,
+            "lon": 11.548793,
+            "name": "Parkplätze, Bernhard-Wicki-Straße 11, 80339 München",
+            "partnerId": "5011",
+            "placeId": "102081",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 102002,
+            "lat": 48.143869,
+            "lon": 11.534373,
+            "name": "Parkplätze, Richelstraße, 80634 München",
+            "partnerId": "5011",
+            "placeId": "102082",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 102003,
+            "lat": 48.133942,
+            "lon": 11.532408,
+            "name": "Parkplätze, Ridlerstraße 52, 80339 München",
+            "partnerId": "5011",
+            "placeId": "102083",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 102007,
+            "lat": 48.136273,
+            "lon": 11.574708,
+            "name": "Parkplätze, Rindermarkt 16, 80331 München",
+            "partnerId": "5011",
+            "placeId": "102087",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 102008,
+            "lat": 48.136133,
+            "lon": 11.574869,
+            "name": "Parkplätze, Viktualienmarkt 8, 80331 München",
+            "partnerId": "5011",
+            "placeId": "102088",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 102009,
+            "lat": 48.137502,
+            "lon": 11.559286,
+            "name": "Parkplätze, Schwanthalerstraße 36, 80336 München",
+            "partnerId": "5011",
+            "placeId": "102089",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 102122,
+            "lat": 48.130423,
+            "lon": 11.592029,
+            "name": "Parkplätze, Rosenheimer Straße 15, 81667 München",
+            "partnerId": "5011",
+            "placeId": "102202",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 102292,
+            "lat": 48.140273,
+            "lon": 11.562281,
+            "name": "Parkplätze, Bahnhofsplatz 7, 80335 München",
+            "partnerId": "5011",
+            "placeId": "102374",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 102342,
+            "lat": 48.138791,
+            "lon": 11.558762,
+            "name": "Parkplätze, Goethestraße 1, 80336 München",
+            "partnerId": "5011",
+            "placeId": "102424",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 102648,
+            "lat": 48.13384892116877,
+            "lon": 11.544831097126007,
+            "name": "Beacon Test",
+            "partnerId": "337",
+            "placeId": "123456",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 102665,
+            "lat": 48.1213443,
+            "lon": 11.597911,
+            "name": "V-Markt, Balanstraße 50, 81541 München",
+            "partnerId": "5092",
+            "placeId": "J6SNUH",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 102687,
+            "lat": 48.1920004,
+            "lon": 11.5874104,
+            "name": "V-Markt, Maria-Probst-Strasse 6, 80939 München",
+            "partnerId": "5092",
+            "placeId": "J6665S",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 102856,
+            "lat": 48.1373375,
+            "lon": 11.5230166,
+            "name": "Hit, Elsenheimerstraße 57, 80687 München-Laim",
+            "partnerId": "5072",
+            "placeId": "80",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 102860,
+            "lat": 48.1300597,
+            "lon": 11.5910375,
+            "name": "Hit, Rosenheimer Straße 30/32, 81669 München-Haidhausen",
+            "partnerId": "5072",
+            "placeId": "86",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 102877,
+            "lat": 48.11106,
+            "lon": 11.59523,
+            "name": "Hit, Giesinger Bahnhofplatz 1a, 81539 München-Giesing",
+            "partnerId": "5072",
+            "placeId": "121",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 104449,
+            "lat": 48.18606,
+            "lon": 11.52554,
+            "name": "Norma, Bingener Straße 46, 80993 München",
+            "partnerId": "5068",
+            "placeId": "J2HK5W",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 104450,
+            "lat": 48.17931,
+            "lon": 11.52673,
+            "name": "Norma, Hardenbergstraße 27, 80992 München",
+            "partnerId": "5068",
+            "placeId": "J2K3XL",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 104453,
+            "lat": 48.19231,
+            "lon": 11.5492,
+            "name": "Norma, Lerchenauerstraße 158, 80935 München",
+            "partnerId": "5068",
+            "placeId": "J3W9TV",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 104455,
+            "lat": 48.1492,
+            "lon": 11.53367,
+            "name": "Norma, Donnersbergerstraße 29, 80634 München",
+            "partnerId": "5068",
+            "placeId": "J2YZ70",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 104457,
+            "lat": 48.1181,
+            "lon": 11.51678,
+            "name": "Norma, Ehrwalder Straße 2, 81377 München",
+            "partnerId": "5068",
+            "placeId": "J1YRPP",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 104458,
+            "lat": 48.17823,
+            "lon": 11.5648,
+            "name": "Norma, Riesenfeldstraße 16, 80809 München",
+            "partnerId": "5068",
+            "placeId": "J4TPFA",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 104459,
+            "lat": 48.18615,
+            "lon": 11.57668,
+            "name": "Norma, Oberhofer Platz 4, 80807 München",
+            "partnerId": "5068",
+            "placeId": "J5J65H",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 104460,
+            "lat": 48.16222,
+            "lon": 11.56346,
+            "name": "Norma, Schleißheimer Straße 125, 80797 München",
+            "partnerId": "5068",
+            "placeId": "J4QTWM",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 104461,
+            "lat": 48.13362,
+            "lon": 11.57498,
+            "name": "Norma, Am Einlaß 3, 80469 München",
+            "partnerId": "5068",
+            "placeId": "J5FIKO",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 104466,
+            "lat": 48.1073,
+            "lon": 11.57817,
+            "name": "Norma, Fromundstraße 31-33, 81547 München",
+            "partnerId": "5068",
+            "placeId": "J5MCIH",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 104467,
+            "lat": 48.1136,
+            "lon": 11.59234,
+            "name": "Norma, Schlierseestraße 28-30, 81539 München",
+            "partnerId": "5068",
+            "placeId": "J6GPXC",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 105005,
+            "lat": 48.1020557,
+            "lon": 11.52768,
+            "name": "Netto (Marken-Discount), Zielstattstr. 63, 81379 München",
+            "partnerId": "5067",
+            "placeId": "8377",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 105992,
+            "lat": 48.14931,
+            "lon": 11.537154,
+            "name": "REWE, Landshuter Allee 30, 80637 München",
+            "partnerId": "413",
+            "placeId": "46655795",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 106323,
+            "lat": 48.161727,
+            "lon": 11.556641,
+            "name": "REWE, Petra-Kelly-Str. 1, 80797 München",
+            "partnerId": "413",
+            "placeId": "46655887",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 106793,
+            "lat": 48.1399612565604,
+            "lon": 11.5615954772524,
+            "name": "REWE, Bahnhofplatz 1, 80335 München",
+            "partnerId": "413",
+            "placeId": "46655759",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 106816,
+            "lat": 48.14680941293,
+            "lon": 11.502784678982,
+            "name": "REWE, Rosa-Bavarese-Str. 1a, 80639 München",
+            "partnerId": "413",
+            "placeId": "46653394",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 106828,
+            "lat": 48.121276,
+            "lon": 11.54618,
+            "name": "REWE, Alramstr. 14, 81371 München",
+            "partnerId": "413",
+            "placeId": "46400828",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 106878,
+            "lat": 48.122989,
+            "lon": 11.564958,
+            "name": "REWE, Geyerstr. 34, 80469 München",
+            "partnerId": "413",
+            "placeId": "46400546",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 106922,
+            "lat": 48.1829331525684,
+            "lon": 11.5939290146614,
+            "name": "REWE, Alfred-Arndt-Str., 80807 München",
+            "partnerId": "413",
+            "placeId": "46400360",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 107681,
+            "lat": 48.166205,
+            "lon": 11.571828,
+            "name": "REWE, Angererstr. 9c, 80796 München",
+            "partnerId": "413",
+            "placeId": "46655788",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 107759,
+            "lat": 48.146177,
+            "lon": 11.519742,
+            "name": "REWE, Friedenheimer Brücke 27, 80639 München",
+            "partnerId": "413",
+            "placeId": "46400658",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 107838,
+            "lat": 48.110449,
+            "lon": 11.580042,
+            "name": "REWE, Werner-Schlierf-Str. 5, 81539 München",
+            "partnerId": "413",
+            "placeId": "46655830",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 107956,
+            "lat": 48.11103,
+            "lon": 11.52554,
+            "name": "REWE, Konrad-Celtis-Str. 66, 81369 München",
+            "partnerId": "413",
+            "placeId": "46400704",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108036,
+            "lat": 48.135957,
+            "lon": 11.50378,
+            "name": "REWE, Fürstenrieder Str. 57, 80686 München",
+            "partnerId": "413",
+            "placeId": "46400756",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108044,
+            "lat": 48.14072,
+            "lon": 11.5759,
+            "name": "REWE, Theatinerstr., 80333 München",
+            "partnerId": "413",
+            "placeId": "46400416",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108178,
+            "lat": 48.166975,
+            "lon": 11.577934,
+            "name": "REWE, Bonner Platz 1, 80803 München",
+            "partnerId": "413",
+            "placeId": "46400668",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108179,
+            "lat": 48.128989,
+            "lon": 11.510984,
+            "name": "REWE, Endelhauserstr. 15, 80686 München",
+            "partnerId": "413",
+            "placeId": "46400671",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108180,
+            "lat": 48.109467,
+            "lon": 11.574739,
+            "name": "REWE, Grünwalder Str. 10, 81547 München",
+            "partnerId": "413",
+            "placeId": "46400672",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108181,
+            "lat": 48.120707,
+            "lon": 11.534637,
+            "name": "REWE, Hansastr. 134, 81373 München",
+            "partnerId": "413",
+            "placeId": "46400673",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108182,
+            "lat": 48.127247,
+            "lon": 11.554197,
+            "name": "REWE, Lindwurmstr. 129, 80337 München",
+            "partnerId": "413",
+            "placeId": "46400677",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108183,
+            "lat": 48.149688,
+            "lon": 11.545781,
+            "name": "REWE, Nymphenburger Str. 75, 80636 München",
+            "partnerId": "413",
+            "placeId": "46400681",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108186,
+            "lat": 48.15488,
+            "lon": 11.511983,
+            "name": "REWE, Romanplatz 10, 80639 München",
+            "partnerId": "413",
+            "placeId": "46400685",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108189,
+            "lat": 48.136344,
+            "lon": 11.57904,
+            "name": "REWE, Tal 13, 80331 München",
+            "partnerId": "413",
+            "placeId": "46400696",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108201,
+            "lat": 48.160054,
+            "lon": 11.581377,
+            "name": "REWE, Hohenzollernstr. 30, 80801 München",
+            "partnerId": "413",
+            "placeId": "46400759",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108202,
+            "lat": 48.184041,
+            "lon": 11.578373,
+            "name": "REWE, Milbertshofener Str. 90, 80807 München",
+            "partnerId": "413",
+            "placeId": "46400761",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108203,
+            "lat": 48.158708,
+            "lon": 11.563018,
+            "name": "REWE, Schleißheimer Str. 124-126, 80797 München",
+            "partnerId": "413",
+            "placeId": "46400763",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108214,
+            "lat": 48.1658,
+            "lon": 11.588357,
+            "name": "REWE, Ungererstr. 19, 80802 München",
+            "partnerId": "413",
+            "placeId": "46400553",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108215,
+            "lat": 48.110195,
+            "lon": 11.577987,
+            "name": "REWE, Tegernseer Landstr. 146, 81539 München",
+            "partnerId": "413",
+            "placeId": "46400559",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108218,
+            "lat": 48.16527,
+            "lon": 11.5117,
+            "name": "REWE, Volpinistr. 19, 80638 München",
+            "partnerId": "413",
+            "placeId": "46400569",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108228,
+            "lat": 48.142721,
+            "lon": 11.55569,
+            "name": "REWE, Arnulfstr. 32, 80335 München",
+            "partnerId": "413",
+            "placeId": "46400456",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108243,
+            "lat": 48.15632,
+            "lon": 11.57179,
+            "name": "REWE, Georgenstr. 74-78, 80799 München",
+            "partnerId": "413",
+            "placeId": "46400527",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108244,
+            "lat": 48.186429,
+            "lon": 11.520794,
+            "name": "REWE, Feldmochinger Str. 53, 80993 München",
+            "partnerId": "413",
+            "placeId": "46400531",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108255,
+            "lat": 48.11658,
+            "lon": 11.52584,
+            "name": "REWE, Partnachplatz 1, 81373 München",
+            "partnerId": "413",
+            "placeId": "46400325",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108259,
+            "lat": 48.178486,
+            "lon": 11.571929,
+            "name": "REWE, Petuelring 92, 80807 München",
+            "partnerId": "413",
+            "placeId": "46400440",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108595,
+            "lat": 48.13244,
+            "lon": 11.57401,
+            "name": "REWE, Müllerstr. 3, 80469 München",
+            "partnerId": "413",
+            "placeId": "46400591",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 108606,
+            "lat": 48.160792,
+            "lon": 11.585769,
+            "name": "REWE, Leopoldstr. 53, 80802 München",
+            "partnerId": "413",
+            "placeId": "46400666",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 109281,
+            "lat": 48.16424,
+            "lon": 11.56399,
+            "name": "REWE, Schleißheimer Str. 141, 80797 München",
+            "partnerId": "413",
+            "placeId": "46400720",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 109495,
+            "lat": 48.1051779433227,
+            "lon": 11.5377277407569,
+            "name": "REWE, Flößergasse 6f, 81369 München",
+            "partnerId": "413",
+            "placeId": "46655936",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 109893,
+            "lat": 48.177379,
+            "lon": 11.521296,
+            "name": "REWE, Feldmochinger Str. 4, 80992 München",
+            "partnerId": "413",
+            "placeId": "46655935",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 109940,
+            "lat": 48.132614,
+            "lon": 11.502532,
+            "name": "Penny, Fachnerstr. 41, 80686 München",
+            "partnerId": "544",
+            "placeId": "66300593",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 109999,
+            "lat": 48.116692,
+            "lon": 11.572554,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00002661",
+            "street": "Kühbachstraße 3-9",
+            "wifiCheckinEnabled": true,
+            "zipCode": "81543"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 110027,
+            "lat": 48.138126,
+            "lon": 11.565607,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00002581",
+            "street": "Sonnenstraße 7",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80331"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 110045,
+            "lat": 48.139703,
+            "lon": 11.564082,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00002796",
+            "street": "Bahnhofplatz 7",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80335"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 110188,
+            "lat": 48.170757,
+            "lon": 11.586309,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00002777",
+            "street": "Leopoldstraße 158",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80804"
+        },
+        {
+            "id": 110195,
+            "lat": 48.135598,
+            "lon": 11.569242,
+            "name": "TeeGschwendner, Sendlinger Straße 28, 80331 München",
+            "partnerId": "271",
+            "placeId": "18191",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 111038,
+            "lat": 48.1834097,
+            "lon": 11.5325694,
+            "name": "NORDSEE, Riesstr. 59, 80993 München",
+            "partnerId": "555",
+            "placeId": "4255",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 111058,
+            "lat": 48.1351143,
+            "lon": 11.5762549,
+            "name": "NORDSEE, Viktualienmarkt, 80331 München",
+            "partnerId": "555",
+            "placeId": "4201",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 111059,
+            "lat": 48.1399651,
+            "lon": 11.5626503,
+            "name": "NORDSEE, Schützenstr. 10, 80335 München",
+            "partnerId": "555",
+            "placeId": "4254",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 111075,
+            "lat": 48.1571669,
+            "lon": 11.5740399,
+            "name": "NORDSEE, Elisabethplatz, 80796 München",
+            "partnerId": "555",
+            "placeId": "4202",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 111079,
+            "lat": 48.1612932,
+            "lon": 11.58684,
+            "name": "NORDSEE, Leopoldstr. 82, 80802 München",
+            "partnerId": "555",
+            "placeId": "4206",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 114556,
+            "lat": 48.133686023014725,
+            "lon": 11.5452978014946,
+            "name": "Theresienhöhe 12",
+            "partnerId": "550",
+            "placeId": "999991",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 114558,
+            "lat": 48.130691111019644,
+            "lon": 11.545718908309938,
+            "name": "GS1 Einzeltest",
+            "partnerId": "550",
+            "placeId": "12345678",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 115074,
+            "lat": 48.1836549,
+            "lon": 11.5321287,
+            "name": "Vodafone, Hanauer Str. 68, 80993 München",
+            "partnerId": "5057",
+            "placeId": "200528862",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 115089,
+            "lat": 48.1365818,
+            "lon": 11.5481093,
+            "name": "Vodafone, Theresienhöhe 5, 80339 München",
+            "partnerId": "5057",
+            "placeId": "203363825",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 115115,
+            "lat": 48.13739,
+            "lon": 11.57399,
+            "name": "Kaufhof, Kaufinger Straße 1-5, 80331 München",
+            "partnerId": "24",
+            "placeId": "00100019",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 115312,
+            "lat": 48.134797,
+            "lon": 11.568914,
+            "name": "REWE, Sendlinger Straße 46, 80331 München",
+            "partnerId": "413",
+            "placeId": "46655943",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 115413,
+            "lat": 48.135801,
+            "lon": 11.57962,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00002812",
+            "street": "Tal 24",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80331"
+        },
+        {
+            "id": 117082,
+            "lat": 48.187778,
+            "lon": 11.5975,
+            "name": "Daimler, Frankfurter Ring 185, 80807 München-Freimann",
+            "partnerId": "5096",
+            "placeId": "6154",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 117083,
+            "lat": 48.187222,
+            "lon": 11.584541,
+            "name": "Daimler, Ingolstädter Straße 28, 80807 München-Milbertshofen",
+            "partnerId": "5096",
+            "placeId": "DE02260301",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 117084,
+            "lat": 48.144543,
+            "lon": 11.537089,
+            "name": "Daimler, Arnulfstraße 61, 80636 München-Neuhausen",
+            "partnerId": "5096",
+            "placeId": "6117",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 117089,
+            "lat": 48.142612,
+            "lon": 11.577447,
+            "name": "Daimler, Brienner Straße 1, 80333 München-Zentrum",
+            "partnerId": "5096",
+            "placeId": "6188",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 118566,
+            "lat": 48.187979,
+            "lon": 11.58008,
+            "name": "Bosch, Frankfurter Ring 85, 80807 München",
+            "partnerId": "5062",
+            "placeId": "1437880",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 118581,
+            "lat": 48.151443,
+            "lon": 11.503897,
+            "name": "Bosch, Wotanstraße 35, 80639 München",
+            "partnerId": "5062",
+            "placeId": "2030722",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 118873,
+            "lat": 48.1419329,
+            "lon": 11.5173013,
+            "name": "Vergölst, Landsberger Straße 198, 80687 München",
+            "partnerId": "5065",
+            "placeId": "0491",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 119297,
+            "lat": 48.1887207,
+            "lon": 11.5016784,
+            "name": "Euromaster, 0, 80993 0",
+            "partnerId": "5066",
+            "placeId": "23162",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 119299,
+            "lat": 48.1071777,
+            "lon": 11.5994873,
+            "name": "Euromaster, 0, 81549 0",
+            "partnerId": "5066",
+            "placeId": "23164",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 119300,
+            "lat": 48.1647949,
+            "lon": 11.5907592,
+            "name": "Euromaster, 0, 80802 0",
+            "partnerId": "5066",
+            "placeId": "23167",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 119390,
+            "lat": 48.121582,
+            "lon": 11.5484313,
+            "name": "Euromaster, 0, 81371 0",
+            "partnerId": "5066",
+            "placeId": "23329",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 119458,
+            "lat": 48.13382027977253,
+            "lon": 11.54506713151932,
+            "name": "Rewe Testplace",
+            "partnerId": "413",
+            "placeId": "test",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 119459,
+            "lat": 48.134018979129856,
+            "lon": 11.545080542564394,
+            "name": "DBL test",
+            "partnerId": "150",
+            "placeId": "dbl test",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 119518,
+            "lat": 48.1384553783908,
+            "lon": 11.57517210000003,
+            "name": "H&M, Weinstr. 8, 80333 München",
+            "partnerId": "5103",
+            "placeId": "DE0067",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 119549,
+            "lat": 48.13756562958746,
+            "lon": 11.57422326850883,
+            "name": "H&M, Kaufingerstr. 8, 80331 München Bayern",
+            "partnerId": "5103",
+            "placeId": "DE0177",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 119623,
+            "lat": 48.137891,
+            "lon": 11.572897,
+            "name": "H&M, Kaufingerstraße 24, 80331 München",
+            "partnerId": "5103",
+            "placeId": "DE0289",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 119624,
+            "lat": 48.18320400507971,
+            "lon": 11.53543644907381,
+            "name": "H&M Olympia-Einkaufszentrum, Hanauer Straße 68, 80993 München",
+            "partnerId": "5103",
+            "placeId": "DE0290",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 119775,
+            "lat": 48.138049,
+            "lon": 11.5724,
+            "name": "H&M, Kaufingerstraße 26, 80331 München",
+            "partnerId": "5103",
+            "placeId": "DE0632",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 119778,
+            "lat": 48.138164,
+            "lon": 11.57084,
+            "name": "H&M EKZ Arcade-Passage, Neuhauser Straße 5, 80331 München",
+            "partnerId": "5103",
+            "placeId": "DE0640",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 119781,
+            "lat": 48.183716,
+            "lon": 11.532474,
+            "name": "H&M Olympia-EKZ, Hanauer Straße 68, 80993 München",
+            "partnerId": "5103",
+            "placeId": "DE0647",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 119834,
+            "lat": 48.137722,
+            "lon": 11.573588,
+            "name": "H&M, Kaufingerstraße 18, 80331 München Bayern",
+            "partnerId": "5103",
+            "placeId": "DE0740",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 120143,
+            "lat": 48.1361451,
+            "lon": 11.5712112,
+            "name": "DEPOT, Sendlinger Strasse 12, 80331 Muenchen",
+            "partnerId": "242",
+            "placeId": "1325",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 120742,
+            "lat": 48.194387,
+            "lon": 11.596835,
+            "name": "Apollo-Optik Holding GmbH & Co. KG, Margot-Kalinke-Straße 4, 80939 München",
+            "partnerId": "18",
+            "placeId": "00007873",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 120779,
+            "lat": 48.1597753,
+            "lon": 11.5859683,
+            "name": "Apollo-Optik Holding GmbH & Co. KG, Leopoldstr. 64, 80802 München",
+            "partnerId": "18",
+            "placeId": "00007635",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 120959,
+            "lat": 48.1835393,
+            "lon": 11.535559,
+            "name": "Apollo-Optik Holding GmbH & Co. KG, Riesstraße 59, 80993 München",
+            "partnerId": "18",
+            "placeId": "00006030",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 121018,
+            "lat": 48.1786246,
+            "lon": 11.5053166,
+            "name": "Apollo-Optik Holding GmbH & Co. KG, Bunzlauer Platz 7, 80992 München",
+            "partnerId": "18",
+            "placeId": "00007669",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 121427,
+            "lat": 48.1524633,
+            "lon": 11.5334218,
+            "name": "Apollo-Optik Holding GmbH & Co. KG, Rotkreuzplatz 2, 80634 München",
+            "partnerId": "18",
+            "placeId": "00006242",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 121455,
+            "lat": 48.1405983,
+            "lon": 11.5695266,
+            "name": "Apollo-Optik Holding GmbH & Co. KG, Pacellistr 5, 80333 München",
+            "partnerId": "18",
+            "placeId": "00006229",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 121494,
+            "lat": 48.1367913,
+            "lon": 11.5462759,
+            "name": "Apollo-Optik Holding GmbH & Co. KG, Theresienhöhe 5, 80339 München",
+            "partnerId": "18",
+            "placeId": "00007836",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 122456,
+            "lat": 48.13392410475786,
+            "lon": 11.5450456738472,
+            "name": "Nordsee Test",
+            "partnerId": "555",
+            "placeId": "rUDP4QM50Z",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 122464,
+            "lat": 48.138,
+            "lon": 11.570689,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00002930",
+            "street": "Neuhauser Straße 5",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80331"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 122479,
+            "lat": 48.136656,
+            "lon": 11.54798,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00002691",
+            "street": "Theresienhöhe 5",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80339"
+        },
+        {
+            "id": 122534,
+            "lat": 48.13342299999999,
+            "lon": 11.5444959,
+            "name": "PAYBACK Berlin, Franziska-Bilek-Weg, 80339 Munich",
+            "partnerId": "561",
+            "placeId": "63d9e4da",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 122859,
+            "lat": 48.135805,
+            "lon": 11.565566,
+            "name": "Alnatura",
+            "partnerId": "387",
+            "placeId": "00000103",
+            "street": "Sonnenstrasse 23",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80331"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 123064,
+            "lat": 48.1130421,
+            "lon": 11.5164077,
+            "name": "Sixt",
+            "partnerId": "365",
+            "placeId": "00006646",
+            "street": "Luise-Kiesselbach-Platz 35",
+            "wifiCheckinEnabled": true,
+            "zipCode": "81377"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 123124,
+            "lat": 48.1526403,
+            "lon": 11.5984186,
+            "name": "Sixt",
+            "partnerId": "365",
+            "placeId": "00040058",
+            "street": "Am Tucherpark 7",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80538"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 123144,
+            "lat": 48.109584,
+            "lon": 11.5793258,
+            "name": "Sixt",
+            "partnerId": "365",
+            "placeId": "00001831",
+            "street": "Tegernseer Landstr. 163",
+            "wifiCheckinEnabled": true,
+            "zipCode": "81539"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 123145,
+            "lat": 48.1461307,
+            "lon": 11.5028857,
+            "name": "Sixt",
+            "partnerId": "365",
+            "placeId": "00004455",
+            "street": "Landsberger Str. 382",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80687"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 123180,
+            "lat": 48.1343833,
+            "lon": 11.5759754,
+            "name": "Sixt",
+            "partnerId": "365",
+            "placeId": "00042225",
+            "street": "Frauenstr. 4",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80469"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 123247,
+            "lat": 48.186695,
+            "lon": 11.5849733,
+            "name": "Sixt",
+            "partnerId": "365",
+            "placeId": "00000002",
+            "street": "Ingolstädter Str. 26",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80807"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 123253,
+            "lat": 48.1405873,
+            "lon": 11.5583995,
+            "name": "Sixt",
+            "partnerId": "365",
+            "placeId": "00000168",
+            "street": "Bahnhofpl. 2/Mietwagenzentrum",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80335"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 123258,
+            "lat": 48.1775827,
+            "lon": 11.5913808,
+            "name": "Sixt",
+            "partnerId": "365",
+            "placeId": "00007325",
+            "street": "Anni-Albers-Strasse 11",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80807"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 123264,
+            "lat": 48.1404239,
+            "lon": 11.5730494,
+            "name": "Sixt",
+            "partnerId": "365",
+            "placeId": "00008862",
+            "street": "Promenadeplatz 2-6",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80333"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 123289,
+            "lat": 48.1404239,
+            "lon": 11.5730494,
+            "name": "Sixt",
+            "partnerId": "365",
+            "placeId": "00040257",
+            "street": "Promenadenplatz 2-6",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80333"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 123326,
+            "lat": 48.1763244,
+            "lon": 11.5639998,
+            "name": "Sixt",
+            "partnerId": "365",
+            "placeId": "00008311",
+            "street": "Petuelring 124",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80809"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 123341,
+            "lat": 48.1383452,
+            "lon": 11.563116,
+            "name": "Sixt",
+            "partnerId": "365",
+            "placeId": "00000014",
+            "street": "Arnulfstr. 61",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80636"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 123350,
+            "lat": 48.1299457,
+            "lon": 11.592858,
+            "name": "Sixt",
+            "partnerId": "365",
+            "placeId": "00040608",
+            "street": "Rosenheimer Str. 15",
+            "wifiCheckinEnabled": true,
+            "zipCode": "81667"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 123400,
+            "lat": 48.1404239,
+            "lon": 11.5730494,
+            "name": "Sixt",
+            "partnerId": "365",
+            "placeId": "00004240",
+            "street": "Promenadeplatz 2-6",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80333"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 123410,
+            "lat": 48.1383452,
+            "lon": 11.563116,
+            "name": "Sixt",
+            "partnerId": "365",
+            "placeId": "00040198",
+            "street": "Marienplatz 1",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80331"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 123426,
+            "lat": 48.1409122,
+            "lon": 11.5845633,
+            "name": "Sixt",
+            "partnerId": "365",
+            "placeId": "00000001",
+            "street": "Seitzstr. 9-11",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80538"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 123449,
+            "lat": 48.1461307,
+            "lon": 11.5028857,
+            "name": "Sixt",
+            "partnerId": "365",
+            "placeId": "00040196",
+            "street": "Wotanstr. 9",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80639"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 123482,
+            "lat": 48.188345,
+            "lon": 11.5739745,
+            "name": "Sixt",
+            "partnerId": "365",
+            "placeId": "00008182",
+            "street": "Frankfurter Ring 35",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80807"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 123488,
+            "lat": 48.1399581,
+            "lon": 11.5668359,
+            "name": "Sixt",
+            "partnerId": "365",
+            "placeId": "00005254",
+            "street": "Karlsplatz 3",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80335"
+        },
+        {
+            "id": 123504,
+            "lat": 48.133846534368146,
+            "lon": 11.545228233429532,
+            "name": "SunExpress - Theresienwiese",
+            "partnerId": "547",
+            "placeId": "1",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 123951,
+            "lat": 48.12849426,
+            "lon": 11.59923172,
+            "name": "MUELLER  München Ost",
+            "partnerId": "5055",
+            "placeId": "13",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 123966,
+            "lat": 48.16319656,
+            "lon": 11.56375122,
+            "name": "MUELLER  München Schleissheimerstraße",
+            "partnerId": "5055",
+            "placeId": "29",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 123981,
+            "lat": 48.14072418,
+            "lon": 11.56221294,
+            "name": "MUELLER  München Elisenhof",
+            "partnerId": "5055",
+            "placeId": "45",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 123988,
+            "lat": 48.13602066,
+            "lon": 11.58036041,
+            "name": "MUELLER  München Tal",
+            "partnerId": "5055",
+            "placeId": "55",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 123997,
+            "lat": 48.13186264,
+            "lon": 11.56777287,
+            "name": "MUELLER  München Pestalozzistraße",
+            "partnerId": "5055",
+            "placeId": "65",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 124187,
+            "lat": 48.13902664,
+            "lon": 11.565575599999999,
+            "name": "MUELLER  München Obletter Stachus",
+            "partnerId": "5055",
+            "placeId": "273",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 124224,
+            "lat": 48.13820267,
+            "lon": 11.56477737,
+            "name": "MUELLER  München Sonnenstraße",
+            "partnerId": "5055",
+            "placeId": "316",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 124290,
+            "lat": 48.18370438,
+            "lon": 11.53216457,
+            "name": "MUELLER  München OEZ",
+            "partnerId": "5055",
+            "placeId": "389",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 124360,
+            "lat": 48.13687897,
+            "lon": 11.54627991,
+            "name": "MUELLER  MBS - München Schwanthalerhöhe",
+            "partnerId": "5055",
+            "placeId": "467",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 124880,
+            "lat": 48.183585,
+            "lon": 11.534094,
+            "name": "Mister Spex Store München / Olympia-Einkaufszentrum",
+            "partnerId": "5118",
+            "placeId": "43",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 124943,
+            "lat": 48.1035077,
+            "lon": 11.5974681,
+            "name": "rtk",
+            "partnerId": "325",
+            "placeId": "00711",
+            "street": "Schwanseestr. 81",
+            "wifiCheckinEnabled": true,
+            "zipCode": "81549"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 124993,
+            "lat": 48.152223,
+            "lon": 11.534779,
+            "name": "rtk",
+            "partnerId": "325",
+            "placeId": "03748",
+            "street": "Nymphenburger Str. 153",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80634"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 125067,
+            "lat": 48.18188,
+            "lon": 11.51084,
+            "name": "rtk",
+            "partnerId": "325",
+            "placeId": "07774",
+            "street": "Dachauer Str. 286",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80992"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 125449,
+            "lat": 48.135608,
+            "lon": 11.55841,
+            "name": "dm",
+            "partnerId": "54",
+            "placeId": "00002795",
+            "street": "Goethestraße 30",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80336"
+        },
+        {
+            "city": "München (Schwabing)",
+            "countryCode": "DE",
+            "id": 125491,
+            "lat": 48.1732746,
+            "lon": 11.5948194,
+            "name": "deine Apotheke",
+            "partnerId": "567",
+            "placeId": "03306314",
+            "street": "Ungererstraße 75",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80805"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 125617,
+            "lat": 48.1843773,
+            "lon": 11.5668231,
+            "name": "deine Apotheke",
+            "partnerId": "567",
+            "placeId": "03357783",
+            "street": "Schleißheimer Straße 354",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80809"
+        },
+        {
+            "city": "München (Laim)",
+            "countryCode": "DE",
+            "id": 125709,
+            "lat": 48.1372198,
+            "lon": 11.5228819,
+            "name": "deine Apotheke",
+            "partnerId": "567",
+            "placeId": "04517059",
+            "street": "Elsenheimer Straße 49",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80687"
+        },
+        {
+            "city": "München (Milbertshofen)",
+            "countryCode": "DE",
+            "id": 125785,
+            "lat": 48.18191,
+            "lon": 11.57332,
+            "name": "deine Apotheke",
+            "partnerId": "567",
+            "placeId": "03248172",
+            "street": "Keferloher Str. 103/Knorrstraße",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80807"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 125866,
+            "lat": 48.1418565,
+            "lon": 11.5610609,
+            "name": "deine Apotheke",
+            "partnerId": "567",
+            "placeId": "00094834",
+            "street": "Elisenstr. 5/Luisenstraße",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80335"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 125993,
+            "lat": 48.121017,
+            "lon": 11.547967,
+            "name": "deine Apotheke",
+            "partnerId": "567",
+            "placeId": "04288038",
+            "street": "Implerstraße 26",
+            "wifiCheckinEnabled": true,
+            "zipCode": "81371"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 125995,
+            "lat": 48.1391648,
+            "lon": 11.5604678,
+            "name": "deine Apotheke",
+            "partnerId": "567",
+            "placeId": "00079763",
+            "street": "Bahnhofplatz 2",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80335"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 126080,
+            "lat": 48.1620608,
+            "lon": 11.5858683,
+            "name": "deine Apotheke",
+            "partnerId": "567",
+            "placeId": "04482384",
+            "street": "Leopoldstr. 65",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80802"
+        },
+        {
+            "city": "München (Haidhausen)",
+            "countryCode": "DE",
+            "id": 126091,
+            "lat": 48.1285176,
+            "lon": 11.5993218,
+            "name": "deine Apotheke",
+            "partnerId": "567",
+            "placeId": "03357866",
+            "street": "Weißenburger Straße 29",
+            "wifiCheckinEnabled": true,
+            "zipCode": "81667"
+        },
+        {
+            "city": "München (Moosach)",
+            "countryCode": "DE",
+            "id": 126350,
+            "lat": 48.180523,
+            "lon": 11.507068,
+            "name": "deine Apotheke",
+            "partnerId": "567",
+            "placeId": "04589142",
+            "street": "Bunzlauer Straße 7",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80992"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 126445,
+            "lat": 48.1348895,
+            "lon": 11.5096308,
+            "name": "deine Apotheke",
+            "partnerId": "567",
+            "placeId": "00080683",
+            "street": "Zschokkestr. 73",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80686"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 126562,
+            "lat": 48.1396394,
+            "lon": 11.5629538,
+            "name": "deine Apotheke",
+            "partnerId": "567",
+            "placeId": "00082127",
+            "street": "Schützenstr.  5/Bayernstraße 4",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80335"
+        },
+        {
+            "city": "München (Laim)",
+            "countryCode": "DE",
+            "id": 126568,
+            "lat": 48.139992,
+            "lon": 11.5028773,
+            "name": "deine Apotheke",
+            "partnerId": "567",
+            "placeId": "00079415",
+            "street": "Fürstenrieder Straße  24",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80687"
+        },
+        {
+            "city": "München (Laim)",
+            "countryCode": "DE",
+            "id": 126631,
+            "lat": 48.1358267,
+            "lon": 11.5025799,
+            "name": "deine Apotheke",
+            "partnerId": "567",
+            "placeId": "04635528",
+            "street": "Fürstenrieder Straße 62",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80686"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 126748,
+            "lat": 48.111439,
+            "lon": 11.56881,
+            "name": "deine Apotheke",
+            "partnerId": "567",
+            "placeId": "04418972",
+            "street": "Schönstraße 2 a",
+            "wifiCheckinEnabled": true,
+            "zipCode": "81543"
+        },
+        {
+            "city": "München (Harlaching)",
+            "countryCode": "DE",
+            "id": 126984,
+            "lat": 48.1168686,
+            "lon": 11.5815078,
+            "name": "deine Apotheke",
+            "partnerId": "567",
+            "placeId": "04286192",
+            "street": "Tegernseer Landstraße  39",
+            "wifiCheckinEnabled": true,
+            "zipCode": "81541"
+        },
+        {
+            "city": "München (Schwabing)",
+            "countryCode": "DE",
+            "id": 127045,
+            "lat": 48.182788,
+            "lon": 11.5942102,
+            "name": "deine Apotheke",
+            "partnerId": "567",
+            "placeId": "04531800",
+            "street": "Alfred-Arndt-Straße 1",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80807"
+        },
+        {
+            "city": "München (Zentrum)",
+            "countryCode": "DE",
+            "id": 127063,
+            "lat": 48.1344336,
+            "lon": 11.568746,
+            "name": "deine Apotheke",
+            "partnerId": "567",
+            "placeId": "04257049",
+            "street": "Sendlinger Straße 37",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80331"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 127172,
+            "lat": 48.1214045,
+            "lon": 11.5978149,
+            "name": "deine Apotheke",
+            "partnerId": "567",
+            "placeId": "04588119",
+            "street": "Balanstraße 50",
+            "wifiCheckinEnabled": true,
+            "zipCode": "81541"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 127272,
+            "lat": 48.1872132,
+            "lon": 11.5456545,
+            "name": "H-Hotels.com",
+            "partnerId": "473",
+            "placeId": "00060001",
+            "street": "Am Oberwiesenfeld 7",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80809"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 127287,
+            "lat": 48.1869282,
+            "lon": 11.5457316,
+            "name": "H-Hotels.com",
+            "partnerId": "473",
+            "placeId": "00020007",
+            "street": "Moosacher Str. 82",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80809"
+        },
+        {
+            "city": "München",
+            "countryCode": "DE",
+            "id": 127291,
+            "lat": 48.13667,
+            "lon": 11.560764,
+            "name": "H-Hotels.com",
+            "partnerId": "473",
+            "placeId": "00008075",
+            "street": "Schillerstraße 28",
+            "wifiCheckinEnabled": true,
+            "zipCode": "80336"
+        },
+        {
+            "features": [
+                "PAY@PUMP"
+            ],
+            "id": 127500,
+            "lat": 48.133936635345336,
+            "lon": 11.5452978014946,
+            "name": "Aral PAYBACK HQ Munich",
+            "partnerId": "181",
+            "placeId": "H8CWsDuJFZ",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 127979,
+            "lat": 48.137303,
+            "lon": 11.574023,
+            "name": "GALERIA Kaufingerstraße 1-5  80331 München  DE",
+            "partnerId": "5128",
+            "placeId": "89",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 127980,
+            "lat": 48.18323,
+            "lon": 11.531463,
+            "name": "GALERIA Pelkovenstraße 155  80992 München  DE",
+            "partnerId": "5128",
+            "placeId": "90",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 127981,
+            "lat": 48.1525967,
+            "lon": 11.5324862,
+            "name": "GALERIA Pötschnerstraße 5  80634 München  DE",
+            "partnerId": "5128",
+            "placeId": "91",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 127982,
+            "lat": 48.16107,
+            "lon": 11.58656,
+            "name": "GALERIA Leopoldstraße 82  80802 München  DE",
+            "partnerId": "5128",
+            "placeId": "92",
+            "wifiCheckinEnabled": true
+        },
+        {
+            "id": 127983,
+            "lat": 48.14043,
+            "lon": 11.56186,
+            "name": "GALERIA Bahnhofplatz 7  80335 München  DE",
+            "partnerId": "5128",
+            "placeId": "93",
+            "wifiCheckinEnabled": true
+        }
+    ],
+    "version": 0
+}
