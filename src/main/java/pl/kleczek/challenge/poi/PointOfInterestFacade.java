@@ -1,10 +1,12 @@
 package pl.kleczek.challenge.poi;
 
 import lombok.RequiredArgsConstructor;
+import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;
 
 import java.util.Comparator;
 
+@Service
 @RequiredArgsConstructor
 public class PointOfInterestFacade {
     private final PointOfInterestRepository pointOfInterestRepository;

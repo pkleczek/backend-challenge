@@ -1,0 +1,38 @@
+{
+  "places": [
+    {
+      "id": 19963,
+      "lat": 48.133886,
+      "lon": 11.545253,
+      "name": "PAYBACK Tech (4th Floor), Theresienhöhe 12, 80339 München",
+      "partnerId": "337",
+      "placeId": "11",
+      "wifiCheckinEnabled": true
+    },
+    {
+      "city": "München",
+      "countryCode": "DE",
+      "features": [
+        "PAY@PUMP"
+      ],
+      "id": 32981,
+      "lat": 48.1269747,
+      "lon": 11.5222115,
+      "name": "Aral",
+      "partnerId": "181",
+      "placeId": "28643900",
+      "street": "Garmischer Straße 138",
+      "wifiCheckinEnabled": true,
+      "zipCode": "80686"
+    },
+    {
+      "id": 43379,
+      "lat": 48.1526366,
+      "lon": 11.5337793,
+      "name": "Vodafone, Nymphenburger Str. 160, 80634 München",
+      "partnerId": "5057",
+      "placeId": "200577051",
+      "wifiCheckinEnabled": true
+    }
+  ]
+}
